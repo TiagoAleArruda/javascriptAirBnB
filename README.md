@@ -1,4 +1,5 @@
 # Airbnb JavaScript Style Guide
+# New line
 
 *A mostly reasonable approach to JavaScript*
 
