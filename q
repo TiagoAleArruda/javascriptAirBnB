@@ -1,0 +1,1996 @@
+[33m8ed1924[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m [readme] use single quotes in nested ternary bad example (section 15.6)
+[33mce3f8e9[m [eslint config] [base] [fix] allow block comments with multiple *
+[33m7a6ef3e[m [react] [readme] Update ARIA roles link
+[33m0f38f1c[m [eslint-config] [*] [readme] add note about ESLint --ext
+[33m05b7f68[m [actions] Update outdated GitHub Actions versions
+[33mb2260ca[m [actions] setting minimum token permissions for github actions
+[33m4d00a73[m Added cross platform compatibility
+[33m1aac72b[m [eslint config] [base] make error message clearer
+[33m1f917c9[m [eslint config] [base] add disabled `import/enforce-node-protocol-usage` rule
+[33m05aabc4[m Fix link to Code of Conduct
+[33mba0ec6d[m Fix link to Code of Conduct
+[33m0e2ef17[m Add code of conduct
+[33m99ade7a[m Add code of conduct
+[33m11f986f[m [eslint config] [deps] update `eslint-plugin-react-hooks`
+[33m6499695[m [readme] update link to es5 and es6 compat table in readme
+[33mf45bd1e[m [eslint config] [*] [fix] fix crash in eslint invocation with TIMING env set
+[33me6080c7[m [readme] add ILIAS to users
+[33mb912288[m [readme] Remove dead URLs
+[33m39b970f[m Add Zit Software to `In the Wild`
+[33md1705c3[m [guide] [css] Added what BEM stands for (Block Element Modifier)
+[33me6f2922[m [eslint config] [*] [deps] update deps
+[33m7a8f568[m [eslint config] [patch] add new disabled react rules
+[33mc25bce8[m [readme] replace dead link with archive.org link
+[33mf20eca9[m [guide] fix compat table URL
+[33m932951a[m [eslint config] [deps] update `eslint-plugin-react`
+[33m5f019b1[m [eslint config] [*] [dev deps] update `tape`
+[33mb239920[m [eslint config] [patch] `jsx-a11y/no-redundant-roles`: allow `nav` to have `navigation` role
+[33m09adc22[m [eslint config] [patch] `jsx-a11y/no-noninteractive-tabindex`: allow expression values
+[33m51a37d0[m [eslint config] [*] [robustness] cache static builtins
+[33m0681a43[m [eslint config] [*] [refactor] remove `object.entries` dependency
+[33m55899b5[m [eslint config] [*] [deps] update deps
+[33me95b1f2[m [eslint config] [base] add new disabled rules
+[33m11ab371[m [eslint config] [base] [patch] Add a message for `confusing-browser-globals`
+[33m46ae3e2[m [readme] Add `Object.hasOwn` to section 3.7
+[33mcb19177[m [readme] correct no-use-before-define justification
+[33mcda44da[m [guide] Add commas to Truth, Equality, and JavaScript
+[33m2fc5e2d[m [guide] fix grammar
+[33m749f4c2[m [eslint config] [deps] update `eslint-plugin-react`
+[33m4aee38f[m [eslint config] [*] [deps] update `eslint-plugin-import`, `@babel/runtime`, `tape`
+[33m18a08b8[m [Dev Deps] update `markdownlint`, `markdownlint-cli`
+[33mfd77bbe[m [guide] add nullish-coalescing-operator definition
+[33m7916d6f[m [guide] Add documentation for `no-use-before-define` rule under hoisting section
+[33m01f046d[m [guide] added second link to eslint rule for item 7.1
+[33m0f3ca32[m [eslint config] [*] [deps] update `object.entries`
+[33m95b6b43[m [eslint-config] [*] [dev deps] update `@babel/runtime`
+[33m240a378[m [Dev Deps] update `markdownlint`, `markdownlint-cli`
+[33m0e627e2[m [readme] update eslint plugin repo URLs
+[33m7982931[m [readme] Updates ESLint rule in section 12.3 (exponentiation-operator)
+[33m69fc1bf[m spell checking, fixed grammar error.
+[33m5c01a10[m [readme] added JavaScript Roadmap link
+[33mbf53656[m [eslint config] [deps] update `eslint-plugin-react`, `eslint-plugin-jsx-a11y`
+[33m917c8d9[m [*] [deps] update `eslint-plugin-import`
+[33m8091e39[m [*] [dev deps] update `@babel/runtime`, `tape`
+[33mfd96a4f[m [eslint config] [*] [refactor] use object spread instead of `Object.assign`
+[33m81157ee[m [guide] add `Object.hasOwn`
+[33m4ef69ed[m [Tests] refactor test paths
+[33md601701[m [readme] wayback machine, or remove, broken links
+[33m49d08a2[m [readme] prefer `const`/`let` over `var` in examples
+[33m0d747c6[m [readme] add space before code blocks
+[33m1fb7d76[m [eslint config] [patch] add new disabled core rules
+[33m38f1488[m [guide] fix typo in `space-before-blocks`
+[33mc6b1a43[m [guide] rename `qux` to `quux`
+[33m6947138[m [guide] add comma to the end of the property
+[33m6fb4f8e[m [guide] add Optional Chaining
+[33mca0ff97[m [guide] add Nullish Coalescing operator
+[33m0b1f623[m [editorial] convert example to use single instead of double quotes
+[33m7dbb7b1[m [eslint config] [base] add disabled `logical-assignment-operators` rule
+[33m75a908a[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`, `eslint-plugin-react`, `eslint-plugin-react-hooks`
+[33mf6f63b8[m [eslint config] [*] [deps] update `object.assign`
+[33m866f441[m [eslint config] [*] update `@babel/runtime`, `tape`
+[33m5143a7a[m [Dev Deps] update `markdownlint`, `markdownlint-cli`
+[33m3cbf96d[m [eslint config] [base] `no-alert`: add TODO comment
+[33m5155aa5[m [eslint config] [base] disable the deprecated `no-spaced-func` rule
+[33mcbf9ade[m [guide] Added period to 4.4 for formatting consistency.
+[33m206d25b[m [eslint config] [deps] update `eslint-plugin-react`
+[33ma0e9405[m [eslint config] [*] [dev deps] update `@babel/runtime`
+[33m42c0e2e[m Fix typo in eslint-config-airbnb-base changelog
+[33m7fdc87a[m [guide] fix eslint core rule URLs
+[33m1677ba6[m [eslint config] [meta] update eslint-plugin-react repo URLs
+[33m7c0f28a[m [eslint config] [deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `tape`
+[33mfd2f5a1[m [eslint config] [base] [deps] update `@babel/runtime`, `confusing-browser-globals`, `eslint-find-rules`, `eslint-plugin-import`, `tape`
+[33mb4377fb[m [meta] better `eclint` command
+[33m34b5bc3[m [meta] revert changes from d4e39c9b10767cc77c7d0091f2eae06a6ccfc33e
+[33md4e39c9[m v19.0.4
+[33mbaaa5e8[m [eslint config] v19.0.3
+[33m274c8d5[m [eslint config] [patch] set `namedComponents` option to match style guide
+[33m38bc026[m [eslint config] [base] add disabled `prefer-object-has-own` rule
+[33m445322d[m [eslint config] [deps] update `eslint-plugin-react`
+[33m152bd5e[m [eslint config] v19.0.2
+[33mafc2cc3[m [eslint config] [meta] fix "exports" path
+[33m371537f[m [Tests] re-enable tests disabled for the eslint 8 upgrade
+[33mc05ffb2[m [eslint config] v19.0.1
+[33m97a3238[m [eslint config] [deps] update `eslint-plugin-react`
+[33me0bb393[m [eslint config] [*] [dev deps] update `tape`
+[33mc4000b9[m [eslint config] [fix] `whitespace`: udpate to support eslint 8
+[33m31c6f21[m [eslint config] [base] [refactor] make a single source of truth for whitespace rule names
+[33m91cab81[m [readme] operator => parameter syntax
+[33md8cb404[m [eslint config] [base] remove unneeded eslint version check
+[33m52e710c[m [eslint config] v19.0.0
+[33m1bc8cab[m [eslint config] [breaking] support `eslint` 8; drop `eslint` < 7
+[33m37ebbba[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `safe-publish-latest`
+[33m930a6f2[m [eslint config] [*] update `@babel/runtime`, `eslint-plugin-import`
+[33m366bfa6[m [eslint config] [base] v15.0.0
+[33mf3d3a07[m [eslint config] [base] [breaking] drop eslint < 7, add eslint 8
+[33meac8cc6[m [eslint config] [base] [breaking] add `exports`
+[33mbe6966b[m [eslint-config] [meta] add `--no-save` to link scripts
+[33m4fc997b[m [readme] some updates
+[33m96f11d8[m [actions] run prepublishOnly in prepublish tests
+[33mc12a08c[m [actions] fix action working directories
+[33m10a6d02[m [meta] use `prepublishOnly` script for npm 7+
+[33mef6c478[m [eslint config] [*] [dev deps] update `@babel/runtime`
+[33m6734b78[m [eslint config] [*] [deps] update `eslint-plugin-import`, `object.entries`
+[33mfdc812a[m [Docs] HTTP => HTTPS
+[33m8aec65a[m Merge pull request #2491 from airbnb/travis
+[33mea5b991[m [Tests] migrate tests to Github Actions
+[33m2a6bec1[m [eslint config] [base] [patch] Improve `function-paren-newline` with `multiline-arguments` option
+[33m82dbec3[m [guide] Fix 14.1 Temporal Dead Zones link
+[33m1227882[m [eslint config] clarify hooks requirement
+[33m4ee7326[m [eslint-config-airbnb] [patch] Explain why `react/jsx-key` is turned off
+[33m7fbed3b[m [eslint-config-airbnb] [deps] update `eslint-plugin-react`
+[33m30927d2[m [*] [deps] update `@babel/runtime`, `eslint-plugin-import`, `tape`
+[33mf5c14ca[m [readme] fixed typo and removed redundancy
+[33m428c9dd[m [*] [deps] update `@babel/runtime`, `eslint-plugin-import`, `eslint-plugin-react`
+[33maf8bdf1[m [*] [deps] update `object.entries`
+[33md5d406a[m [readme] add AloPeyk to "in the wild"
+[33m35914b1[m [guide] Spread operator => Spread syntax
+[33m1fb4592[m [guide] add references for eslint rules
+[33m5641278[m [editorial] add `var` info to `let`/`const` section
+[33mdc3af3a[m [eslint config] [base] update default value for complexity
+[33m1eadb93[m [eslint config] [fix] bump eslint-plugin-react-hooks peer dependency version
+[33m0cf78ac[m [guide] Fix 19.6 example code
+[33m730b749[m [eslint config] [patch] Alphabetize the rules for react-a11y.js
+[33m4d83764[m [eslint config] [deps] update `eslint-plugin-react`
+[33m1b540ba[m [*] [dev deps] update `tape`
+[33m711aeb6[m [editorial] Complete 19.6 example code (cut in the middle)
+[33m9c18110[m [meta] Fix typo in .markdownlint.json
+[33mea5ec0c[m [readme] removed dead links - 404 not found
+[33mdb8b6ce[m [eslint config] update `eslint-plugin-react`, add new rules, disabled
+[33mb9ff0ae[m [eslint-config] [base] add disabled `no-unsafe-optional-chaining` rule
+[33mfb3214c[m [*] [deps] update `object.entries`
+[33m66cd156[m [*] [dev deps] update `tape`
+[33m63098cb[m [eslint config] [base] [patch] arthmetic -> arithmetic
+[33m1f786e1[m [eslint config] [base] [patch] fix spelling of "than"
+[33m5620bd5[m [eslint config] [base] add `no-nonoctal-decimal-escape` rule
+[33mf0df3a8[m [eslint config] [base] `import/no-extraneous-dependencies`: Add .eslintrc.js to devDeps
+[33m37d48db[m [eslint config] v18.2.1
+[33me5de51e[m [eslint config] [patch] re-add `jsx-a11y/accessible-emoji`, but disabled
+[33meee79a5[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33mb7015dd[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33m36f23d7[m [eslint config] [base] v14.2.1
+[33me149b05[m [eslint config] [*] [deps] update `confusing-browser-globals`, `object.assign`
+[33mf0492d5[m [eslint config] [*] [dev deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-import`
+[33m25b64d7[m [dev deps] update `markdownlint`, `markdownlint-cli`
+[33m8996aa7[m [eslint config] [patch] remove deprecated `jsx-a11y/accessible-emoji` rule
+[33m05c3bb0[m [eslint config] [patch] Fix ignoreNonDOM typo in jsx-a11y/aria-role rule
+[33md3c7b84[m [eslint config] [patch] Fixed `handle` and `on` ordering in `sort-comp` rule
+[33mb30b0e4[m [eslint-config] [base] `no-restricted-globals`: add better messages
+[33m2c5c88d[m [guide] Update reason for preferring object destructuring
+[33mee2f22a[m [guide] Better link reference to Drupal's linter
+[33maa43bb2[m [guide] add explanation about why to use radix when using parseInt
+[33m82170f9[m [guide] add eslint rule reference for `prefer-object-spread`
+[33m5ebfe3e[m [guide] add eslint rule reference for `default-param-last`
+[33m337f607[m [guide] Fix grammatical errors
+[33m6006d6d[m [guide] fix dead es-discourse link
+[33ma24dc34[m [guide] [react] Add examples for formatting multiline conditional components
+[33m1dc71d3[m [guide] [react] add missing PascalCase guidance for prop names
+[33m973384b[m [eslint config] [*] [dev deps] update `@babel/runtime`, `eslint-find-rules`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33m3dcc591[m [eslint config] [base] add `id-denylist` rule
+[33mc5bee75[m [eslint config] [*] [deps] update `eslint-plugin-import`, use valid `import/no-cycle` `maxDepth` option
+[33m5124de2[m [eslint config] [base] add new rules from v7.3
+[33m5495541[m [eslint config] v18.2.0
+[33m197b50c[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-jsx-a11y`
+[33mf550ded[m [eslint config] [tests] fix for eslint 7
+[33m562e351[m [Dev Deps] update `markdownlint`, `markdownlint-cli`
+[33m78457af[m [eslint config] [base] v14.2.0
+[33m5b462a0[m [eslint config] [*] [new] add `eslint` `v7`
+[33m22adc06[m [eslint config] [minor] Allow using `eslint-plugin-react-hooks` v3 and v4
+[33mfe2e451[m [Tests] add `node` `v14`; remove `v9`, `v11`
+[33mb587006[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33m8aee3e1[m [eslint config] [base] [patch] Include 'context' exception for `no-param-reassign`
+[33mcad3db3[m [eslint config] [base] [minor] Disallow multiple empty lines
+[33m7aa0fa1[m [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-react`, `babel-preset-airbnb`, `eslint-find-rules`, `in-publish`, `tape`
+[33md34f807[m [Deps] update `object.entries`
+[33mc48a060[m [eslint config] [patch] set `explicitSpread` to ignore for `react/jsx-props-no-spreading`
+[33m06b3ab1[m [eslint config] [minor] Fix typo in no-multiple-empty-lines rule
+[33mc0ee2c4[m [guide] unquote properties in whitespace key spacing section
+[33me4f3dd4[m [react] Update Chinese (Simplified) Translation
+[33m0375265[m [eslint config] [base] [patch] Allow triple-slash (///) comments
+[33md3628e2[m [eslint config] [base] [patch] Disable `prefer-object-spread` for `airbnb-base/legacy`
+[33mf075a0d[m [eslint config] [patch] relax `eslint-plugin-react-hooks` down to v2.3, due to a controversial change in v2.5
+[33md529cca[m [eslint config] readme: fix typo
+[33ma3355f9[m [eslint config] v18.1.0
+[33me7062c3[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33mc75b66d[m [eslint config] [base] v14.1.0
+[33me279b6d[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-react`, `eslint-plugin-react-hooks`
+[33m6924bd3[m [Dev Deps] update `@babel/runtime`
+[33m165af9b[m [Tests] actually run the linter on subpackages
+[33me6e6414[m [guide] Add link to eslint rule for https://github.com/airbnb/javascript#modules--multiline-imports-over-newlines
+[33m717ba51[m [guide]: add "bigint" type to the primitives type section.
+[33m9890b40[m guide: import/extensions rule documentation
+[33m3493b06[m [eslint config] [minor] Support eslint-plugin-react-hooks@2
+[33m019e0f7[m [eslint config] add config for disabled new rules
+[33m41ca203[m [Dev Deps] update `markdownlint-cli`
+[33m651280e[m [eslint config] [base] Fix indentation with JSX Fragments
+[33mf86f19c[m [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-react`
+[33m4df9080[m [eslint config] [*] [dev deps] update `@babel/runtime`, `babel-preset-airbnb`, `safe-publish-latest`, `tape`
+[33m377fbca[m [eslint config] [*] [deps] update `object.entries`
+[33m6d05dd8[m [eslint config] [*] [readme] normalize multiline word according to merriam-webster
+[33mb5954c3[m [eslint config] [base] [deps] [minor] add new disabled rules, update eslint
+[33m370793b[m [eslint-config] [*] [fix] `whitespace`: only set erroring rules to "warn"
+[33m2e3adc9[m [eslint config] [base] [patch] `import/no-extraneous-dependencies`: Support karma config files
+[33m5927c7f[m [guide] fix possible typo
+[33m56b75dc[m [guide] Document `class-methods-use-this`
+[33m64b965e[m [guide] Fix Temporal dead zone link anchor
+[33m3fb312f[m [eslint config] [patch] Add `static-variables` to `sort-comp` rule
+[33m8f78e1f[m [tests] re-enable eslint rule `prefer-destructuring` internally
+[33m5a32c33[m [eslint config] [base] [minor] enable `import/no-useless-path-segments` for commonjs
+[33mdf2c99c[m [tests] fix eslint errors from c66cfc3
+[33mab72ab9[m [eslint config] [patch] Remove duplicate `componentDidCatch`
+[33mdee4f17[m [eslint config] [base] add new rules in eslint 6.x, disabled
+[33mc66cfc3[m [eslint config] [deps] update `eslint-plugin-react`
+[33m8c94d53[m [eslint config] [*] [dev deps] update `@babel/runtime`, `babel-preset-airbnb`, `safe-publish-latest`
+[33m79047a9[m [eslint config] [base] [deps] update `confusing-browser-globals`
+[33m7932a52[m Added Tomify and Traitify to the organizations
+[33m1ca21ab[m [eslint config] clarify hooks section in readme
+[33m295d1e6[m [guide] clean up confusing example from bad rebase
+[33ma204cdf[m [eslint config] v18.0.1
+[33m5302784[m [eslint config] [patch] `react/state-in-constructor`: fix incorrect configuration
+[33mbdba997[m [eslint config] v18.0.0
+[33m1e0a696[m [eslint config] [breaking] disable `label-has-for`; enable `control-has-associated-label`
+[33m73f71d9[m [eslint config] [breaking] enable `react/jsx-props-no-spreading`
+[33m089022a[m [eslint config] [minor] enable `react/static-property-placement`
+[33m7f5a658[m [eslint config] [minor] enable `react/state-in-constructor`
+[33m25075b5[m [eslint config] [minor] enable `react/jsx-curly-newline`
+[33ma23f93e[m [eslint config] [breaking] enable `react/jsx-fragments`
+[33mb447768[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-react`
+[33mb05573c[m [eslint config] [base] v14.0.0
+[33me6f591f[m [Dev Deps] update babel-related deps to latest
+[33m282ef9e[m [eslint config] [base] [breaking] `no-self-assign`: enable `props` option
+[33md490ee1[m [eslint config] [base] [breaking] enable `no-useless-catch`
+[33m08f8093[m [eslint config] [base] [breaking] enable `max-classes-per-file`
+[33md03a712[m [eslint config] [base] [breaking] enable `no-misleading-character-class`
+[33mf0c767f[m [eslint config] [base] [breaking] enable `no-async-promise-executor`
+[33m88e71e6[m [eslint config] [base] [breaking] enable `prefer-object-spread`
+[33m11ede40[m [eslint config] [base] [breaking] `func-name-matching`: enable `considerPropertyDescriptor` option
+[33me257dee[m [eslint config] [base] [patch] `camelcase`: enable ignoreDestructuring
+[33m6b5922c[m [eslint config] [breaking] set react version to "detect"
+[33ma490005[m [react] event handlers should not return values
+[33mbb011c2[m [eslint config] [base] [patch] Add markers to spaced-comment block for Flow types
+[33m8148bfc[m [eslint config] [base] [patch] Do not prefer destructuring for object assignment expression
+[33m19e9ce3[m [eslint config] [base] [breaking] `padded-blocks`: enable `allowSingleLineBlocks` option
+[33m61c7ae6[m [eslint config] Add missing/unsafe lifecycle methods to react/sort-comp rule
+[33m8c686ea[m [eslint config] add componentDidCatch to lifecycle for react/sort-comp
+[33ma344d6c[m [guide] [eslint config] [base] [breaking] `no-multiple-empty-lines`: Restrict empty lines at beginning of file
+[33m2160a77[m [eslint config] [breaking] [react] add `react-hooks` plugin
+[33mad0c44c[m [eslint config] Remove rules/strict from 'extends'
+[33m42c647f[m [eslint config] [base] [breaking] Set 'strict' to 'never'
+[33mb96341f[m [eslint config] [base] [breaking] legacy: Enable 'strict'
+[33mf6acb78[m [guide] [eslint config] [base] [breaking] Simplifies `no-mixed-operators`
+[33m820745d[m [guide] [eslint config] [base] [breaking] Require parens for arrow function args
+[33m8eacf24[m [eslint config] [*] [breaking] add eslint v6, drop eslint v4
+[33m3b18fea[m [Tests] only run tests in non-lint per-package travis job
+[33m945c62f[m [Tests] on `node` `v12`
+[33m820ccf7[m [eslint config] [*] [tests] use `eclint` instead of `editorconfig-tools`
+[33m792bb56[m [eslint config] [*] update `eslint-find-rules`, `eslint-plugin-import`
+[33m6c0a884[m [guide] fix dead jsperf links
+[33m030e23b[m [guide] Fix npm package has usage example
+[33m036612e[m [inthewile] Add Happeo to users list
+[33m6a50516[m [eslint config] [meta] add disabled config for new react and a11y rules
+[33m21493ad[m [eslint config] [base] [deps] update `confusing-browser-globals`, `eslint-plugin-import`, `tape`, `babel-preset-airbnb`
+[33m873f302[m [eslint config] v17.1.1
+[33m7ea44cf[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-jsx-a11y`, `babel-preset-airbnb`, `tape`
+[33m9fbe07f[m [eslint-config] [base] v13.2.0
+[33ma9a83d9[m [guide] add link to new version of Google Style Guide
+[33m76ff7c7[m [editorial] [docs] correct JavaScript capitalization
+[33m4539dbc[m [guide] remove redundant spaces
+[33m19701d4[m [inthewild] Add Coeur d'Alene Tribe
+[33m1310ade[m [eslint config] [base] [patch] Ignore property modifications of `staticContext` params
+[33m5cd011d[m [eslint config] [base] [deps] update `eslint-plugin-import`
+[33m117d4fc[m [Tests] fix issue with eslint dev deps
+[33m4474666[m [guide] remove extra blank line
+[33m60b96d3[m [guide] Add a 19.9 bullet in a Whitespace section
+[33mb85baea[m [eslint config] [base] [meta] add disabled `prefer-named-capture-group` rule
+[33mbe07f7a[m [guide] [react] add more context about arrow functions, as props and in class fields
+[33m495a62a[m [guide] fix example 4.7 for arrays method callbacks
+[33mda0cf08[m [Tests] on `node` `v11`
+[33ma71c2d1[m [eslint config] add disabled `jsx-fragments` rule
+[33m834d717[m [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `tape`
+[33m8694a87[m [eslint config] [react] [patch] Turn off `react/no-multi-comp`
+[33m4f15da6[m [eslint config] [*] [readme] Improve eslint config setup instructions for yarn
+[33m6ef45d4[m [guide] make "good" example match "bad" example more closely
+[33m96f95fa[m [eslint config] [base] [patch] `no-extraneous-dependencies`: Add jest.setup.js to devDeps
+[33mebe9682[m Merge branch 'master' into translation-proposal
+[33md78af39[m Merge pull request #1996 from remcohaszing/redux-devtools-extension-compose
+[33md8256fc[m [eslint config] [*] [deps] update `object.entries`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33m25f11fb[m [eslint config] [patch] extend `no-underscore-dangle` to allow for redux dev tools in the main config instead
+[33m1439ebe[m [editorial] [react] fix typo
+[33mb6c56cb[m [eslint config] [base] [patch] Allow use of `__REDUX_DEVTOOLS_EXTENSION_COMPOSE__`
+[33m955f4e9[m Vietnamese translation
+[33m95286eb[m [guide] [react] add note about `forbid-prop-types` rule
+[33m070e620[m [Dev Deps] update `markdownlint-cli`
+[33m387755e[m [meta] add disabled `no-useless-catch` config
+[33m218c4fe[m [eslint config] [base] [fix] disable `no-var` in legacy entry point
+[33m80920a0[m Add Terra to README list
+[33m5d25a2e[m capitalize means first letter uppercase, the rest lowercase
+[33m064e3bf[m :) conflicting with rule 8.2 :D
+[33mffe4fe9[m [guide] Clarify wording
+[33m69e3437[m Examples more consistent with the guidline
+[33m6ece1f5[m Added NullDev
+[33m0d6d854[m [17.2] Added second anchor https://github.com/airbnb/javascript/pull/1960
+[33m21b65e9[m [eslint config] [base] [deps] Switch to confusing-browser-globals
+[33m74deb81[m [editorial] Improve conciseness of README.md
+[33m41a13e8[m [19.16] changed Enforce to avoid
+[33m03a0734[m Add UrbanSim to organizations list
+[33m24da5bb[m [doc] add eslint rule references in react guide
+[33m924dfb2[m [doc] add eslint rule reference for `no-prototype-builtins`
+[33m9af5ee8[m Updated wording of variable--one-const rule
+[33m32a7bf4[m :pencil2: fix docs for whitespace config
+[33m02b4eea[m [guide] update to a better Chinese translation
+[33me7ffd44[m Update .markdownlint.json
+[33m17e0454[m [eslint config] [base] [minor] Enforce dangling underscores in method names
+[33mb8b2a0b[m Add Pier1 to the organization list
+[33m48448a8[m [guide] [react] Explain use of ID over key right on page
+[33m5443d03[m [guide] Consistently use curly quotes instead of straight quotes in prose
+[33mfcfd378[m Fix outdated link to Airbnb's Neutrino preset
+[33md774b89[m Merge pull request #1898 from kevinweber/react/props--unnecessary-props
+[33mced1cb3[m List bad example first to be consistent
+[33m685f37b[m [eslint config] v17.1.0
+[33m9a52676[m [eslint config] [patch] re-enabling `jsx-one-expression-per-line` allowing single children, ignore DOM components on `jsx-no-bind`; re-enable `restructuring-assignment`
+[33m152b914[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-react`
+[33m45326cc[m [eslint-config-airbnb-base] v13.1.0
+[33mdfb70d6[m [*] [deps] update `eslint-plugin-import`, `safe-publish-latest`
+[33m32a674d[m [eslint config] [*] [deps] update `eslint`, `babel-preset-airbnb`, `eslint-plugin-jsx-a11y`
+[33ma12dec9[m [guide] [react] boolean in jsx alignment
+[33mb6a268f[m [eslint config] [react] disable two buggy rules, temporarily
+[33m96317f8[m [guide] fix anchor tag in README.md
+[33ma510095[m [eslint config] [*] [new] add eslint v5 support
+[33m2037fd8[m [Tests] link eslint from the base config as well
+[33m7dda84a[m [eslint config] [deps] [minor] update `jsx-a11y` plugin; enable `label-has-associated-control` rule
+[33m5d1f4b9[m [guide] Updated Arrays Section
+[33mfe8de59[m [eslint-config] [*] [docs] :pencil2: fix typo in Readme
+[33m77fdae6[m Add Cerner to In The Wild
+[33m27e5e20[m [eslint config] [base] [new] update base ecmaVersion to 2018; remove deprecated experimentalObjectRestSpread option
+[33md951220[m [eslint config] [*] [dev deps] update `eslint-find-rules`
+[33m4702115[m Fix: Typo
+[33m363bb07[m [eslint config] [deps] update `eslint-plugin-react`
+[33m6a59306[m [dev deps] update `markdownlint-cli`
+[33m8de558b[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33m2161ddf[m Build: add node 10
+[33mcae920f[m [eslint config] v17.0.0
+[33md14ed5d[m [eslint config] [breaking] update `eslint-config-airbnb-base`
+[33mafe3407[m [eslint config] [base] v13.0.0
+[33m8be089e[m [eslint config] fix tests
+[33mfdb998b[m [eslint config] [base] fix tests
+[33m951825c[m [eslint config] set `forbid-foreign-prop-types` to "warn"
+[33m25e711c[m [eslint config] [patch] Add new methods introduced in react@16.3
+[33m068d6b6[m [eslint config] [base] [patch] Adjust imports for vue-cli
+[33mb3bbd1c[m [eslint config] [base] [breaking] order of import statements is ignored for unassigned imports
+[33m2668495[m add ES2015-2018 in npm package keywords
+[33md270031[m [eslint config] [*] [dev deps] update `babel-preset-airbnb`, `tape`
+[33m103f5e2[m doc: add missing anchor in README.md
+[33m74fb34f[m Add no-unused-vars to README
+[33m5e26092[m [eslint config] [react] update `eslint-plugin-react`
+[33m8a24480[m Fix broken aria roles link in React style guide README
+[33mdfc9da7[m Add Drupal to In The Wild section.
+[33mae82d76[m Update README.md
+[33m04ab225[m [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint-find-rules`, `eslint-plugin-react`
+[33mc068d7c[m Fix link for Temporal Dead Zone
+[33m2ba36de[m [guide] Add backticks
+[33m2bd77bc[m [eslint config] [base] [patch] `label-has-for`: Remove redundant component
+[33m71e54f2[m doc: fix some nits in README.md
+[33medf942e[m [guide] Add descriptions of enforced rules
+[33m2d97799[m [eslint config] [base] [minor] only allow one newline at the end
+[33m8c83d03[m [eslint config] [base] [patch] Allow devDependencies for foo_spec.js naming style
+[33m22f0155[m Add StandardJS to "Other Style Guides" list
+[33m2653730[m [react] add vietnamese
+[33m5705b8a[m Revert "Replace flag images with emoji"
+[33mfd08347[m [eslint config] [base] fix tests
+[33mb56875b[m [eslint config] [base] [patch] `function-paren-newline`: change to "consistent"
+[33m89bb98e[m Merge pull request #1787 from airbnb/lencioni-patch-2
+[33m87f97e0[m Replace flag images with emoji
+[33m308fb24[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33m6088a8f[m [guide] remove references to jscs
+[33m8956338[m [guide] Turkish Translation Link Added
+[33m0699852[m [guide] fix "bad" comment to be actually bad
+[33m8720f5f[m [eslint config] [base] [patch] avoid `__mocks__` `no-extraneous-dependencies` check
+[33mbd97fca[m [guide] Minor addition of spaces
+[33mc71e8c9[m [eslint config] [base] [breaking] enable `import/no-cycle`: warn on cyclical dependencies
+[33m31d95fd[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-import`, `eslint-find-rules`
+[33m06e2899[m Minor spacing update
+[33m33819d6[m [guide] Added naming conventions for UPPERCASE use cases
+[33m8ed1d85[m [eslint config] [base] [patch] Include 'accumulator' exception for `no-param-reassign`
+[33m49dab88[m Change import/no-self-import from "off" to "error"
+[33ma9f5d51[m Added naming--uppercase section from comment
+[33m8247e33[m [eslint config] [base] [patch] Set import/extensions to ignorePackages
+[33ma100a39[m [eslint config] [base] [breaking] Update `object-curly-newline` to match eslint 4.18.0
+[33m55adae9[m [guide] Reflect adoption of jest
+[33ma9fc9d8[m [docs] [js] add function-paren-newline eslint reference link
+[33m396166b[m [eslint config] [*] [fix] ensure `whitespace` entry point is compatible with node 4
+[33m40dbeac[m [Tests] ensure all entry points parse
+[33m8e6363c[m [eslint config] [*] [new] add `whitespace` entry point
+[33m6373dab[m Adds config entry point with only whitespace rules enabled
+[33mc82500d[m [eslint config] [base] [breaking] enable `no-useless-path-segments`
+[33m1fbeabd[m [eslint config] [*] [breaking] [deps] update `eslint`, `eslint-plugin-import`
+[33mfd68fdb[m [guide] [react] add comment about what JS standards are followed
+[33mea14bda[m Add licenses to sub packages
+[33ma7a7cab[m [guide] Add an anchor for rule 13.7
+[33m3c3074e[m [eslint config] [*] [deps] update `eslint`, `eslint-find-rules`, `eslint-plugin-react`, `tape`
+[33mff1c121[m [eslint config] [breaking] update `eslint-plugin-react` to `v7.6`; update rule configs
+[33m901fd85[m Use single quotes for consistency
+[33mcfe10c1[m fix linting error in guide
+[33m4c870cb[m [guide] Fix function signature spacing
+[33mc8b1164[m control-statement--value-selection 2
+[33m16190d8[m Note added for translation
+[33mc5411a4[m Suggest using WeakMaps when hidden properties are needed
+[33maefff97[m Update Korean translation link
+[33m9a3e635[m Added GreenChef organization to README
+[33m17b6491[m add Turkish translation
+[33m1eefaed[m [guide] [css] Fixed Italic subtitle in css-in-js README.md
+[33mfc99aef[m [guide] Use `acc` as `reduce` accumulator instead of `memo` to make it valid
+[33me9fff7a[m [eslint config] [base] [breaking] Prevent line breaks before and after `=`
+[33m53b2d7d[m [eslint config] [breaking] bump react pragma to v16; update `class-methods-use-this`'s `exceptMethods` to include `componentDidCatch`
+[33mc4dcfd9[m [guide] fix indentation in section 4.7
+[33m7dab837[m [eslint config] [deps] update `eslint`
+[33m7b1ced2[m [eslint config] [base] [deps] update `eslint`
+[33m262b07b[m fix example to meet standard listingId v listingID
+[33ma08afd7[m [eslint-config] [*] [docs] add `npx` shortcut
+[33mbe647a7[m Merge pull request #1538 from lanceli/patch-1
+[33m69a3554[m [eslint config] [base] [patch] properly ignore indentation on jsx
+[33m7b18d7c[m [eslint config] [*] [deps] update `eslint`
+[33m35f3e76[m Merge pull request #1691 from airbnb/update-mixed-operators-text
+[33mfe3a2de[m [fixes: #1678] Improves wording of no-mixed-operators recommendation.
+[33mea8fd76[m [eslint config] [base] [breaking] Add .mjs extension support
+[33mcb9482c[m [guide] Update license year
+[33mf9fcb37[m [guide] Add link to "has" package
+[33m0991476[m [guide] Clarify that vars are hoisted to function scope, not block scope
+[33m1b6bcd0[m [guide] more precisely refer to an "object literal" instead of just a "hash"
+[33mfc34709[m Docs: HTTP -> HTTPS
+[33m90235ca[m [eslint config] [base] [patch] `array-callback-return`: enable `allowImplicit` option
+[33m9061044[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-jsx-a11y`
+[33m8a12ffe[m [guide] Fix spelling error in link
+[33m255b0f3[m Fix third example in  Enclosed operators section
+[33m4817a6b[m [eslint config] [patch] Add 'to' as a specialLink to the 'anchor-is-valid' a11y rule
+[33mb709023[m [eslint config] [base] [breaking] enable `implicit-arrow-linebreak`
+[33m2087a42[m [eslint config] [base] [deps] update `eslint`
+[33meb50272[m Forbid .mjs extension from being specified
+[33m1d9d25d[m Add .mjs to the list of supported extensions
+[33m8cf2c70[m [guide] Add explanation for semicolon enforcement rule
+[33m44dbd0b[m [eslint config] [patch] disable `no-did-mount-set-state`, since it’s necessary for server-rendering.
+[33m5682155[m Adds section about spreading props
+[33m1948c30[m [Tests] on `node` `v9`; use `nvm install-latest-npm` so new npm doesn’t break old node; pin included builds to LTS.
+[33m7ff6303[m [guide] Use HTTPS for links to ESLint documentation
+[33m2d4343a[m [guide] remove/update outdated links.
+[33mc40d0d1[m [guide] Fix a link, add an anchor
+[33m9edcdde[m Merge pull request #1620 from lasota-piotr/classname-props
+[33mdbdf8ea[m [doc] add eslint rule reference for `no-multi-assign`
+[33m327795b[m [doc] add eslint rule reference for `no-new-wrappers`
+[33m9d3e7e0[m Add component with className as anti-pattern example
+[33m999fe3b[m Change className to variant in examples
+[33m2676cbf[m [eslint config] [base] [breaking] Enables `nonblock-statement-body-position` rule and adds link to guide
+[33m8a477f9[m Merge pull request #1616 from leonidlebedev/patch-1
+[33mecf8e07[m Remove unnecessary variables
+[33mbd3ba6e[m Add symbol as a primitive type
+[33mdbd6934[m [guide] Fix a numeration typo in README.md
+[33m8161f32[m [eslint config] [base] [breaking] `no-mixed-operators`: only warn on `**` and `%` mixed with arithmetic operators; removes violation against mixing common math operators.
+[33m97a6883[m Fix markdown style breaking
+[33m232b719[m To Clarify the func-style description
+[33m94c4773[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33m3c6d40c[m [docs] Clarify reasoning for named function expressions
+[33m39cf84f[m [guide] Add clarification to arrow functions
+[33m67e3443[m Adds guide section for no-return-else
+[33m8cfc97e[m [Tests] fix linting tests
+[33m6f2395a[m [eslint config] [base] [breaking] `import/named`: enable
+[33mb66d6e4[m [eslint config] [base] [breaking] `lines-between-class-members`: set to “always”
+[33m2b3c86d[m Fixes indentation
+[33m8507df4[m Merge pull request #1600 from airbnb/shar--enforce-operator-linebreak-before
+[33mcd4ec29[m [eslint config] [base] Enables eslint rule for operator-linebreak
+[33m01e72b9[m [eslint config] [base] [breaking] `no-else-return`: disallow else-if
+[33mf2a65c6[m Improves 'Why?' message
+[33m6fbc472[m Fixes test syles
+[33m2ab0e61[m Updates Control Statements section to reflect eslint config change
+[33m6e1f111[m [eslint config] [base] Enables eslint rule for operator-linebreak
+[33mcf9e17e[m [eslint config] v16.1.0
+[33mec4b9b1[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint` to v4.9
+[33m7f61af6[m [eslint config] [base] v12.1.0
+[33m9025c52[m [doc] add eslint rule reference for `prefer-destructuring`
+[33m3581bac[m [eslint config] [base] [deps] update `eslint` to `v4.9`
+[33mf8f13d9[m Merge pull request #1591 from 1pete/patch-2
+[33m62d8d66[m [eslint config] sort peerDependencies in alphabetical order
+[33mac2ed5a[m Added our company to "In The Wild"
+[33mdfbeaae[m [eslint config] v16.0.0
+[33me5b5aee[m [eslint config] [breaking] enable/add react rules:
+[33m2c22882[m [eslint config] [deps] update `eslint`, `eslint-config-airbnb-base`, `eslint-plugin-react`
+[33mad37466[m [eslint config] [base] v12.0.2
+[33ma815509[m [eslint config] [base] [deps] update `eslint`
+[33m4170a50[m Merge pull request #1574 from leonidlebedev/patch-1
+[33mfaedb67[m Add Amendments
+[33mcd038fb[m v12.0.1
+[33mb7ff33e[m [eslint config] [base] [deps] update `eslint`
+[33m8e29a16[m [eslint config] [base] [fix] ensure all JSX elements are ignored by `indent`
+[33m2380c0d[m [guide] Improve severity of warning comment
+[33m3ad1ad1[m [guide] Updated example in ternaries.
+[33me16b03b[m [guide] require array spread operator or `Array.from`
+[33m0aab14c[m Add Grupo Abraxas to In The Wild section
+[33m5b338e1[m [Tests] lint our markdown
+[33me86fb14[m Merge pull request #1551 from vitalymak/patch-1
+[33m138aafd[m Update CHANGELOG.md
+[33m9dee847[m [Docs] add note about requiring `babel-preset-airbnb` and `airbnb-browser-shims`.
+[33md493a04[m Change Simplified Chinese translation link
+[33m22672c1[m [eslint config] [new] add `propWrapperFunctions` default settings for `eslint-plugin-react`
+[33mf93ca2f[m [eslint config] [deps] update `eslint` v4, `eslint-plugin-react`
+[33mdb719a2[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33m68cdc59[m [eslint config] [new] Enable `react/jsx-closing-tag-location`
+[33mf1cc91c[m [eslint config] [base] v11.3.2
+[33m5637c8f[m [eslint config] [base] [deps] update `eslint`, `tape`
+[33ma79237b[m [guide] [react] add another “good” example
+[33m09988e3[m [inthewild] adding kaplan komputing
+[33m855426b[m Update section on naming conventions for acronyms
+[33m344c25d[m Fix a wrong link
+[33m1cddb4f[m [eslint config] [base] [patch] Add jest.config.js to import/no-extraneous-dependencies devDeps
+[33m6bd7356[m [eslint config] [deps] update `eslint` v4, `eslint-plugin-react`, `tape`
+[33mb5e14dc[m Explain why default exports are preferred
+[33mdbdbde0[m Remove polish translation
+[33m16faade[m [eslint config] [*] [docs] Specify yarn-specific install instructions
+[33me4f35ac[m Removing "GitHub" from In The Wild reference
+[33ma206c52[m [eslint config] [base] [patch] Improve Gruntfile glob pattern
+[33mabeb313[m Merge pull request #1505 from asherdale/master
+[33m9393e6a[m Update README, finished fixing eslint styling
+[33ma371d73[m Update README, fixed badly-styled eslint links
+[33m3cc6269[m Updated README, deleted extra 'back to top'
+[33m106a58e[m [eslint config] [base] v11.3.1
+[33m0d938ae[m [eslint config] [base] [fix] `legacy`: remove top-level `ecmaFeatures`
+[33m2c01265[m [eslint config] v15.1.0
+[33m16c73d0[m [eslint config] [deps] allow eslint v3 or v4
+[33m5835443[m [eslint config] [deps] update `eslint-plugin-import`, `eslint-config-airbnb-base`
+[33m074b2f8[m [eslint config] [breaking] [deps] Upgrade `eslint-plugin-jsx-a11y` to `v6`
+[33m7b30681[m [eslint config] [breaking] [deps] require `eslint` `v4`, update `eslint-config-airbnb-base`
+[33m1f5ca4c[m [eslint config] [base] v12.0.0
+[33m63d1ae1[m [Tests] fix linting error caused by updated base config
+[33m9d91990[m [Tests] stop testing on eslint v3
+[33mb687a9c[m [eslint config] [base] [patch] support Protractor config files in import/no-extraneous-dependencies
+[33m18255d1[m [guide] Add documentation for exponentiation operator (`**`).
+[33m55219bf[m v11.3.0
+[33m8113927[m [Deps] allow eslint v3 or v4; update `eslint-plugin-import`
+[33m399420f[m [Tests] add an explicit eslint version to travis.yml
+[33mb4995b6[m [eslint config] [base] revert breaking part of #1420
+[33mcdc1c4f[m [inthewild] Add Sainsbury's Supermarkets to the organizations list
+[33m6331c2c[m [guide] Typo fix on example
+[33m22c97fa[m [inthewild] Add LEINWAND to the organizations list
+[33mfc7fae6[m [Tests] add pretravis/posttravis scripts
+[33m7768e01[m [eslint config] [*] Add missing rules
+[33me5b403c[m [eslint config] [base] [deps] update `babel-preset-airbnb`, `eslint-find-rules`, `eslint-plugin-import`, `tape`
+[33md806859[m [Tests] run prepublish tests as allowed failures
+[33mc68fa63[m [eslint config] v15.0.2
+[33m8448706[m [eslint config] [deps] update `babel-preset-airbnb`, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`, `tape`
+[33m2666db5[m Fix typo in a11y for yarn
+[33mcd720b4[m [eslint config] [*] [docs] add yarn instructions
+[33m4380284[m [guide] Add missing close parenthesis and semicolon to section 8.2
+[33m57ff032[m [eslint config] [base] [minor] `no-return-assign`: strengthen linting against returning assignments.
+[33m3a9e1c8[m [eslint config] [base] [patch] Support Protractor config files in import/no-extraneous-dependencies
+[33m0c9e22e[m [guide] replacing undefined with ReferenceError
+[33m7bb8c9f[m [guide] Fix iterator code example error
+[33mcd4ec62[m [guide] change more straight quotes to curly quotes
+[33m4499ee0[m [guide] No arrow function implicit return with side effects
+[33mc43fc74[m [eslint config] [docs] Remove TODO in prefer-reflect as it's deprecated
+[33mfd8cbec[m [guide] change straight quotes to curly quotes
+[33m1bbac74[m Updated "how to define propTypes..."
+[33m00c9e52[m [eslint config] [base] [minor] Balanced spacing for inline block comments
+[33m721af54[m [Tests] on `node` `v8`
+[33m1a38734[m [Tests] npm v4.6+ breaks in node < v1; npm 5+ breaks in node < v4
+[33m5ba3149[m Only apps should have lockfiles.
+[33m98f2224[m Add linting for Markdown prose
+[33mac6de2f[m Bump copyright year 2016 -> 2017 in license
+[33mf3c9639[m [eslint config] [base] [patch] Allow jsx extensions for test files
+[33m0f8f30d[m [6.5] Add no-eval eslint rule to docs
+[33m44ca3c2[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`
+[33mf86aaca[m [eslint config] [fix] jsx should be enabled via parserOptions, not via a root ecmaFeatures.
+[33m0dd3dbd[m [eslint config] [base] [breaking] Blacklist confusing globals
+[33m324bf9c[m Fix option typo
+[33m8cabe49[m [eslint config] v15.0.1
+[33mfe65e4b[m [eslint config] [patch] Fix reported React version
+[33m58e6cd3[m [eslint config] v15.0.0
+[33m0449d9b[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33md480837[m [eslint config] [base] v11.2.0
+[33m5bcb840[m [eslint config] [base] [minor] Disallow unused global variables
+[33m655886f[m [eslint config] [deps] update `eslint-plugin-react`
+[33m152eaa6[m [guide] [react] Update React README ref to jsx-a11y/jsx-space-before-closing
+[33m2f912c1[m [guide] [react] Update React README ref to jsx-a11y/img-has-alt
+[33m18e5ac9[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`
+[33md469bb2[m [eslint config] [deps] [breaking] update `eslint-plugin-react`
+[33m01e3977[m [eslint config] [breaking] enable rules:
+[33m121a95d[m [eslint config] [deps] [breaking] update `eslint-plugin-jsx-a11y`
+[33mf878eda[m [eslint config] [base] [patch] also disallow padding in classes and switches
+[33m5aa203e[m [eslint config] [base] [deps] [breaking] require `eslint` v4
+[33mf5cd286[m [guide] [eslint config] [base] [breaking] Rules prohibiting global isNaN, isFinite.
+[33m5dec827[m [eslint config] [base] [breaking] move `comma-dangle` to Stylistic Issues
+[33m7cef8da[m [eslint config] [docs] add rule documentation to `forbid-elements` entry
+[33mba35e31[m [eslint config] [breaking] set default React version to 0.15
+[33mc9c5f7e[m [eslint config] [minor] enable rules:
+[33mbfc85bd[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint`
+[33m3ca86a4[m added generation tux as in the wild
+[33mb87cb5c[m [guide] [Fix] react/prefer-stateless-function "ignorePureComponents" option typo
+[33m275d4bb[m Add "Control statements" section
+[33mee6b23d[m [guide] remove remaining numbered links used as targets.
+[33m3fe9960[m Add 'Axept' into 'In the Wild' section
+[33m83711e0[m Add 'InterCity Group' on 'In the Wild' list
+[33m17917ee[m Merge pull request #1388 from airbnb/dubin-remove-simply-base
+[33m1997f8e[m Remove "simply" from Readme in base
+[33mc2d9fd7[m Merge pull request #1387 from airbnb/dubin-remove-simply
+[33m88a070c[m Remove "simply" from Readme
+[33m7abd9a9[m Add rollup.config.*.js to import/no-extraneous-dependencies ignore list
+[33m8eee1f1[m [guide] [react] Add missing semicolons
+[33m71932e1[m [eslint config] Turn `ignorePureComponent` option on for react/prefer-stateless-function
+[33m07d37db[m Merge pull request #1370 from hanzhijue/patch-1
+[33m2c0da30[m Fix the example of "propTypes"
+[33m54be49a[m Merge pull request #1368 from bl00mber/master
+[33m462ea7d[m translation links in react guide updated
+[33mcb027cd[m translation links sorted
+[33mfa0a823[m adding sourcetoad to users
+[33me43bdd9[m [eslint config] [base] v11.1.3
+[33m74071a8[m [eslint config] [base] [patch] add error messages to `no-restricted-syntax`
+[33maa9bbf9[m [eslint config] [base] [deps] update `eslint`
+[33mb8d8d6e[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint`, `eslint-plugin-react`
+[33m75d48c7[m [eslint config] [base] v11.1.2
+[33mae1c919[m [eslint config] [base] [deps] update `eslint`
+[33m98f1b19[m Indent blockquotes in markdown guides
+[33m13dc420[m Fix Gitter badge in README.md
+[33m5797f54[m [guide] Add array-bracket-newline (close #1338)
+[33m321fb27[m [eslint config] [*] [deps] update `eslint`
+[33m3475264[m [eslint config] [base] Add ignorePropertyModificationsFor
+[33m772bbb5[m [eslint config] [base] [deps] update `eslint`
+[33mf9aff60[m [eslint config] [deps] update `eslint`, `eslint-config-airbnb-base`
+[33mbe0315e[m [eslint config] [base] v11.1.1
+[33m1f5999b[m [eslint config] [base] [deps] update `eslint`
+[33m1a2edb9[m Add ukrainian translation
+[33mc9490c6[m [guide] Added 'let' to rule defs regarding variables
+[33m93e91d3[m Add AltSchool to the "In The Wild" section of the README
+[33m5ad2576[m Added OHD to a list of style guide users.
+[33m5ca6d46[m [resources] add link to neutrino preset
+[33mb153231[m Update renamed jsx-wrap-multilines
+[33mbc21501[m [eslint config] [base] [minor] add `**/*.spec.js` as a test files pattern
+[33m840d021[m Add Honey to list of users
+[33mbbbabf3[m [eslint config] [deps] update `eslint-plugin-react`
+[33m7152396[m Merge pull request #1303 from airbnb/lencioni-patch-1
+[33md23b442[m Add link to Mixins section in TOC
+[33m3bbbf6d[m Merge pull request #1302 from airbnb/mixins
+[33m1841d2f[m Add guidance around not using mixins
+[33m8cab89e[m Add note to explain what a soft tab is
+[33mc29e615[m [inthewild] remove deleted repositories
+[33mec42fbe[m [guide] README update for JSCS deprecated links
+[33m2c390ec[m [eslint config] [breaking] update eslint-plugin-jsx-a11y to v4, enable new rules
+[33m6435f8f[m [inthewild] Adds CaseNine
+[33m7e35c2d[m [eslint config] v14.1.0
+[33ma8ecaa8[m [eslint config] [deps] [patch] allow `eslint-plugin-jsx-a11y` to be v3 or v4. Remove `no-marquee` rule temporarily.
+[33mde5cd51[m [eslint config] [deps] update `eslint-config-airbnb-base`, `babel-preset-airbnb`, `eslint`
+[33mb6fc6dc[m [eslint config] [base] v11.1.0
+[33ma8d2f94[m [eslint config] [base] update `eslint`, `babel-preset-airbnb`
+[33m4d024be[m [guide] Added documentation for arrow function parens with one arg
+[33m9375fb5[m [guide] Use const when not reassigning reference
+[33me22f02c[m Update React link in organizations
+[33m897b8fc[m Change function order in functions (7.1) example
+[33md0fb763[m [eslint config] [base] enable `no-multi-assign`
+[33m62a1ede[m [eslint config] [base] [deps] update `eslint`
+[33m7b7ffc5[m Merge pull request #1269 from leonidlebedev/master
+[33m8e12091[m [guide] Update russian translation
+[33mcb32f44[m [guide] fix arrow IIFE call
+[33m6e4859d[m [guide] remove trailing or leading underscores
+[33m2313174[m [guide] add trailing commas
+[33m9bb2986[m [guide] add spaces
+[33m9fdd6d6[m [guide] add / remove semicolons
+[33md928487[m [guide] const -> let
+[33mee492a7[m [guide] comment out ellipses
+[33m41fa95e[m [guide] fix indentation for consistency
+[33md8c3048[m [guide] ```js -> ```javascript for consistency
+[33m40d5797[m [guide] [react] Add missing trailing comma
+[33mcdbe705[m [inthewild] Adds SwoopApp
+[33ma6a6f4b[m Update copyright year
+[33mb06c5c6[m Avoid octal number interpretation
+[33m712e010[m Update common function body comment
+[33m73e27ef[m add 3blades reference
+[33md892cc9[m [eslint config] [base] Update a deprecated option
+[33mb7aabb9[m Add semicolon to named function expression variable declaration
+[33m2df021e[m [guide] [react] Added React/JSX Style Guide in Ukrainian
+[33m846d687[m [eslint config] v14.0.0
+[33m7ec81d2[m [eslint config] [deps] update `eslint`, `eslint-plugin-react`, `eslint-config-airbnb-base`
+[33m7963b97[m [eslint config] [base] v11.0.1
+[33m7e865a4[m [eslint config] [base] [deps] update `eslint`
+[33m0970472[m [guide] fix Array name in examples
+[33m266860b[m [eslint config] [*] [docs] add note about `install-peerdeps`
+[33mb484381[m [inthewild] Adds BashPros
+[33m6593964[m Fixed Functions (7.1) JSCS rule
+[33mc6b7c9e[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-jsx-a11y`
+[33mb7cc2dc[m [docs] Fix package name in eslint-config-airbnb-base
+[33mc9edc92[m [guide] update vietnamese translation link
+[33m6eacbc2[m [guide] Fix chaining example to be consistent with string interpolation
+[33m019a6ed[m [eslint config] [*] [docs] Updated instructions to support non-bash users
+[33mc30adcc[m Add editorconfig
+[33me947cac[m [eslint config] [base] [patch] add gulpfile.*.js to import/no-extraneous-dependencies
+[33m24f0040[m [eslint config] [*] [deps] update `eslint`
+[33me1a307a[m [eslint config] [breaking] enable `react/no-array-index-key`, `react/require-default-props`
+[33m6c4456d[m [eslint config] [deps] update `eslint`, `eslint-plugin-react`, `tape`, `eslint-config-airbnb-base`
+[33mb178cf9[m [eslint config] [base] v11.0.0
+[33m4a005b1[m [eslint config] [base] disable `no-duplicate-imports` rule - obsoleted by `import/no-duplicates`.
+[33me037d29[m [eslint config] [base] [deps] [breaking] update `eslint`; enable `no-await-in-loop`
+[33m898a70e[m [inthewild] Add Nulogy (https://nulogy.com/)
+[33m4d68ddc[m Change "modified" to "increasedByOne" to minimize ambiguity
+[33m1df9825[m [guide] add map example to iterators
+[33ma56f239[m [inthewild] Add Bonhomme
+[33m243d824[m [guide] [react] Added react jsx guide in spanish
+[33m0b3b5a1[m [eslint config] [base] [deps] update `eslint`, `tape`
+[33m780be0d[m [guide][react] Add missing parenthesis in «Refs» recommendation
+[33m664877a[m Avoid i++ in array spreads example
+[33m54aa8f1[m [guide] Fix no-interpolation template string example
+[33m1ab6aae[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-react`
+[33mf3f7124[m [eslint config] [base] [patch] `import/no-extraneous-dependencies`: add some comments to ignore patterns.
+[33m97da1f0[m [eslint config] [base] [patch] add `import/no-extraneous-dependencies` ignore patterns for test files
+[33m25d03b8[m [eslint config] [*] [breaking] [deps] update `eslint`, `eslint-plugin-import`, `eslint-plugin-react`
+[33m72eb3e4[m [eslint config] [breaking] [deps] update `eslint-plugin-jsx-a11y` to v3
+[33mb736499[m [guide] [react] add note that defaultProps must always be provided for non-required props
+[33mec08ca8[m [eslint config] [base] `import/no-extraneous-dependencies`: added ignore patterns for config files
+[33mae1c0f8[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33mf828575[m [eslint config] [base] v10.0.1
+[33ma2cb4a2[m [eslint config] [base] [fix] legacy config should not require `**`
+[33m97575b2[m Fix broken rule reference link `import/first`
+[33m24b8f35[m [eslint config] v13.0.0
+[33m3e65675[m [eslint config] [breaking] re-enable `react/no-unused-prop-types`
+[33mc3044f8[m [eslint config] [breaking] [deps] update `eslint-config-airbnb-base`, `eslint`, `eslint-plugin-import`, `eslint-plugin-react`
+[33m38bd170[m [guide] Update syntax in `eol-last` examples
+[33m8c2df74[m [eslint config] [base] v10.0.0
+[33m9f51fd2[m [guide] Add notes on acronyms and initialisms to naming
+[33mc4a9d28[m [Tests] on `node` `v7`
+[33m2f9dddb[m [eslint config] [base] [patch] loosen `no-extraneous-dependencies` for test files.
+[33m1399b3c[m [eslint config] [base] [breaking] prefer `**` over `Math.pow`
+[33m436cf3e[m [eslint config] [base] [breaking] update `eslint`, `eslint-plugin-import`; enable `import/no-named-default`
+[33m3ab19f0[m [guide] Fix inconsistency in function expression rules.
+[33m153c02b[m Create LICENSE.md
+[33m535cb79[m [guide] Mention both num++ and num ++
+[33m5568467[m [guide] Separate 19.2 code blocks into diff + javascript sections
+[33m86f5201[m [guide] quotes: corrected casing
+[33m7882082[m [eslint config] [base] [breaking] `comma-dangle`: require trailing commas for functions
+[33mc51251d[m [guide] add section on multiline function signatures/invocations
+[33mf9a5dd4[m Update JSX quote style rationale.
+[33m017dfa8[m [Docs] add reference to spaced-comment rule; flesh out options
+[33m9cbda0f[m Updated README - Added sub-section for spaces in comments
+[33mfbfe881[m DailyJS is not longer being published
+[33m4acb48b[m Updated README.md - Corrected capitalize on GitHub
+[33m5aec2c6[m [eslint config] [base] correct another typo from a23a3efba9d1661e52cfa6894d620cee965ac090
+[33mf387887[m [eslint config] [deps] update `eslint`
+[33m5da6fac[m [eslint config] [base] correct typo from a23a3efba9d1661e52cfa6894d620cee965ac090
+[33m9b649c8[m [eslint config] [*] [dev deps] update `eslint-find-rules`
+[33ma23a3ef[m [eslint config] [base] [deps] [breaking] update `eslint`
+[33m05d0634[m Add reference for `Object.assign`
+[33madc7823[m [react] add rule references in section *Spacing*
+[33m0e2b74a[m Add links to mentioned github issues
+[33m70428bd[m [eslint config] [*] [deps] update `eslint`
+[33ma06831d[m [eslint config] [patch] set `react/no-unused-prop-types` to “warn”, pending bugfixes.
+[33m0bb3eb5[m [eslint config] [deps] [breaking] update `eslint-config-airbnb-base`, `eslint-plugin-import`
+[33md7d50bc[m [eslint config] [base] v9.0.0
+[33ma1ca49b[m Add `ForOfStatement` to `no-restricted-syntax`
+[33m9c5afe5[m Update eslint to 3.8.0
+[33m978c0ee[m Use import instead of require
+[33ma75efdf[m [guide] improve ++/-- example.
+[33mbaa831b[m [eslint config] [*] [docs] ensure latest version of config is installed
+[33m8d0fda9[m [eslint config] [base] Add comments on new import rules.
+[33mb59bfff[m Enable `import/no-webpack-loader-syntax` rule
+[33meb9927f[m [eslint config] [deps] update `eslint-plugin-react`
+[33mb599b7c[m Upgrade to import plugin v2
+[33m357cc46[m Update README.md
+[33m781f186[m [eslint config] [*] [deps] update `safe-publish-latest`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33m1483292[m Fix naming typo
+[33mb7492ff[m Update comparison recommendation
+[33md0d2600[m Make section numbering consistent
+[33m1bc2f3f[m Merge pull request #1110 from karanjthakkar/multiline-imports
+[33mb72bd52[m Fix rule description
+[33m098894e[m Remove legacy anchor link. Add dangling comma
+[33m6ad315c[m Add section on multi-line imports. Fixes #1051
+[33me2de71e[m [eslint config] [*] update `babel-preset-airbnb`, `eslint`, `eslint-find-rules`, `tape`
+[33m8468ed8[m Lonely Planet
+[33m24223ee[m [eslint config] [patch] `class-methods-use-this`: exempt React `getChildContext`
+[33m59db4aa[m [eslint config] [base] [patch] `new-cap`: add immutable.js exceptions
+[33ma1c84ee[m [eslint config] v12.0.0
+[33m39d7c73[m [eslint config] [patch] `class-methods-use-this`: exempt React lifecycle methods
+[33m976845e[m [eslint config] [breaking] Enable react rules:
+[33m0dae56a[m [eslint config] [patch] disable deprecated and redundant `react/require-extension` rule
+[33m0faabe0[m [eslint config] [breaking] [deps] update `eslint-config-airbnb-base`
+[33m0157e69[m [eslint config] [base] v8.0.0
+[33mf6dab79[m [eslint config] [base] [breaking] enable rules:
+[33m173cba3[m [eslint config] v11.2.0
+[33m62cac3e[m [eslint config] [deps] update `eslint-config-airbnb-base`
+[33mec2c439[m [eslint config] [base] v7.2.0
+[33me8b51b2[m [eslint config] [*] [new] set `ecmaVersion` to 2017; enable object rest/spread; update `babel-preset-airbnb`
+[33me5f4eb5[m [eslint config] [*] [deps] update `eslint-plugin-import`, `eslint` to 3.6
+[33m4c59866[m [eslint config] [deps] update `eslint-plugin-react`
+[33m386a7b1[m [eslint config] [*] [deps] update `eslint-find-rules`, `safe-publish-latest`
+[33m53f67f8[m Merge pull request #1083 from airbnb/react-props
+[33ma599bca[m Add rule to avoid misusing DOM component prop names
+[33ma86d546[m [Docs] remove yet another wrapped-string "good" example
+[33m11b9adf[m Fix japanese translation link
+[33ma2a35a8[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33m286b01c[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33mbd5505b[m [commas] fix traling comma link
+[33me9141f4[m [eslint config] [base] [patch] fix category of `no-restricted-properties`
+[33m6cdda07[m [guide] Fix typo from #1058
+[33m2a28b9c[m move #variables--unary-increment-decrement to correct section
+[33m7da28d4[m [Docs] update 8.3 to fix conflict with 6.2 (fixes #1058)
+[33me59376f[m [eslint config] v11.1.0
+[33m3fc37b3[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint`
+[33m715dea6[m [eslint config] [base] v7.1.0
+[33m6a72781[m [eslint config] [base] [minor] enable `arrow-parens` rule
+[33mdbdd56c[m [eslint config] [base] v7.0.1
+[33m38f679e[m [eslint config] [base] [patch] loosen `max-len` by ignoring strings
+[33m7412641[m [eslint config] [base] [deps] update to `eslint` `v3.5.0`.
+[33mff69c8c[m Prefer https over http
+[33m7d46d3c[m Document react/require-render-return as a fully fledged rule
+[33m2512319[m Add JavaScript Air to list of Podcasts
+[33m68b7aeb[m Add rule about TC39 proposals that haven't reached stage 3
+[33me678249[m Update ECMAScript 6 heading to match TOC
+[33mf769e35[m [eslint config] v11.0.0
+[33mccd18f8[m [guide] Update declarations section to prefer expressions.
+[33m7f12b9f[m [eslint config] [breaking] enable `react` rules:
+[33m4ce30fc[m [eslint config] [breaking] enable `jsx-a11y` rules:
+[33me037760[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint`, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`, `eslint-plugin-react`
+[33m9abe878[m Fix header link to Classes & Constructors from ECMAScript 6+ Styles
+[33m4904506[m [eslint config] [base] v7.0.0
+[33m55d044c[m [eslint config] [base] [breaking] Add no-plusplus in style.js and added explanation in README.
+[33mbc3b15d[m [eslint config] [*] [docs] use “#” in example command rather than version numbers.
+[33me52f41c[m [eslint config] [base] v6.0.0
+[33m9750f42[m [eslint config] [base] Update `ecmaVersion` to `2016`.
+[33md7d606e[m [eslint config] [base] [breaking] `valid-typeof`: enable `requireStringLiterals` option
+[33m06ff748[m [eslint config] [base] [breaking] enable `class-methods-use-this`
+[33m2c5a775[m [eslint config] [base] [breaking] enable `symbol-description`
+[33m3bf7035[m [eslint config] [base] [deps] update `eslint`, `eslint-find-rules`, `eslint-plugin-import`
+[33ma6d59f9[m [eslint config] [base] [breaking] enable `no-bitwise`
+[33maa4e9c4[m [eslint config] [base] [breaking] enable `no-tabs`
+[33m27dcb99[m [eslint config] [base] [breaking] enable `func-call-spacing`
+[33m086cc00[m [eslint config] [base] [breaking] enable `no-template-curly-in-string`
+[33mc829114[m Merge pull request #1047 from airbnb/css-in-js
+[33mc640633[m Add note about where where mystery objects come from
+[33mc74caea[m Re-order breakpoints in CSS-in-JS document
+[33m71a2b12[m Add CSS-in-JavaScript section
+[33m3a7210e[m [guide] remove subtle endorsement of JSDoc-style commenting.
+[33m0e4517e[m [eslint config] [patch] set `ignoreCase` to `true` in disabled rules.
+[33ma43c16e[m Explain why not to prefix methods with underscores
+[33m6944be0[m Fix a typo in commas section
+[33m1541503[m [7.1] add link to fn names discussion. fixes #794
+[33m48f477d[m [eslint config] [base] [patch] remove redundant `DebuggerStatement` from `no-restricted-syntax`
+[33m21846f6[m [guide] fix “long lines” example to not include strings.
+[33mca1124c[m [eslint config] [base] v5.0.3
+[33m2e69472[m Changed ESLint rule configs to use 'off', 'warn', and 'error' instead of numbers for better readability
+[33mf1fedfa[m ES2015
+[33mbaf0fa5[m fix issue with eslint-config-airbnb README.md file formatting
+[33m39d5559[m Remove misleading reference to one-var eslint rule
+[33m4162303[m Typo : text link to 13.5 was not working (#1020)
+[33m3ad3368[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-react`
+[33mb126016[m Add section on variable assignment chaining
+[33me92eaef[m Update README.md
+[33mdb2e7bd[m [eslint config] [base] [fix] correct `import/extensions` list.
+[33m424d74e[m [eslint config] [deps] update `eslint-plugin-react`
+[33m3fb9f2e[m [eslint config] v10.0.1
+[33m7d9af14[m [eslint config] [deps] update `eslint`, `eslint-plugin-jsx-a11y`, `eslint-plugin-import`, `eslint-config-airbnb-base`
+[33mbe6e13f[m [eslint config] [base] v5.0.2
+[33mfb0f03f[m [eslint config] [base] [deps] update `eslint`, `eslint-plugin-import`
+[33m0b8e466[m [eslint config] [*] [deps] update `eslint`, `eslint-find-rules`
+[33md20f33f[m Add link for Japanese translation
+[33m646fa70[m Update README.md
+[33m3126509[m [guide] Simplify the examples of 'apply vs spread' topic
+[33mc7d34b5[m [guide] Add a topic about spread operator vs apply
+[33m030598d[m [guide] Add ESlint rules to 'always use const' and 'decriptive variable names' topics
+[33mdc7e7e7[m Reverse rule on string concatenation for long lines (#995)
+[33m6d2fc89[m Add template literal "bad" example to single quotes guideline
+[33mbfc842e[m Remove rules about reserved words
+[33mf0b3196[m [guide] Add eslint rules to function declaration and function constructor topics
+[33mf94f6e2[m [guide] Add eslint rule to spacing in a function signature topic
+[33m6454839[m [guide] Use `var` in reserved word examples, since they refer to untranspiled code.
+[33m52a2da4[m Add curlies around ref function body
+[33m9ffadff[m [eslint config] v10.0.0
+[33ma1edac3[m [eslint config] [*] add `safe-publish-latest` to `prepublish`
+[33m53b4173[m [guide] [es5] Remove ES5 guide and mark it deprecated.
+[33mb4d8543[m [eslint config] [react] [breaking] enable jsx-a11y rules:
+[33ma6da4bb[m [eslint config] [react] [breaking] enable aria rules:
+[33m6857f7a[m [eslint config] [react] [breaking] enable react rules:
+[33mcb36ed9[m [eslint config] [deps] [breaking] update `eslint` to v3, `eslint-config-airbnb-base` to v5, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y` to v2, `eslint-plugin-react` to v6, `tape`.
+[33m75c961a[m Change 'Brazilian' to 'Portuguese'
+[33ma533e2d[m [eslint config] [base] v5.0.1
+[33m4425d3c[m [eslint config] [base] [deps] update `eslint` to `v3.2`
+[33m49dfcc4[m [eslint config] [*] improve prepublish script
+[33mb2ea03e[m [eslint config] [base] [deps] update `eslint-plugin-import`
+[33m4dbb2af[m Improve React HOC example
+[33m1917968[m Add missing closing paren in HOC guideline
+[33m0165c13[m [eslint config] [*] [docs] Added subshell to usage commands and converted samples to the three backtick markdown syntax with language specifier for highlighting.
+[33m4c8f789[m Add guideline for displayName in higher-order components
+[33meea5f0f[m [eslint config] [base] `no-unused-expressions`: flesh out options
+[33m1fb300c[m [eslint config] [base] v5.0.0
+[33m616233c[m [eslint config] [base] [breaking] enable `no-unexpected-multiline` rule
+[33mbbfb960[m [eslint config] [*] [deps] update `babel-tape-runner`, add `babel-preset-airbnb`
+[33mda3eb59[m Merge pull request #961 from idugcoal/master
+[33m8921283[m change 'conjunctions' to 'contractions'
+[33m9d598c3[m [eslint config] [base] [breaking] enable more overlooked rules:
+[33m4921e03[m [eslint config] [base] [breaking] enable `import/newline-after-import`
+[33mdf8627d[m [eslint config] [*] [tests] fix prepublish scripts.
+[33m3594ee9[m [eslint config] [*] [docs] forgot “—save-dev” in 623dc44bb9990dd90c0540be8309c7b5a3f6217a
+[33m623dc44[m [eslint config] [*] [docs] update the peer dep install command to dynamically look up the right version numbers when installing peer deps.
+[33mca9c322[m [eslint config] [base] [breaking] enable overlooked rules:
+[33m762177e[m [eslint config] [base] [deps] update `eslint`, `eslint-find-rules`, `eslint-plugin-import`
+[33m2504e0f[m [eslint config] [base] Fleshing out defaults.
+[33m385fc9e[m Merge pull request #955 from ronal2do/master
+[33m723e12a[m Airbnb React/JSX Style Guide translation for PT-BR
+[33m97da7b6[m Airbnb React/JSX Style Guide translation for PT-br
+[33mabcc0c6[m Capitalize all comments in react.js
+[33m325f8ba[m [eslint config] [base] v4.0.2
+[33m6039804[m [eslint config] [base] [fix] repair accidental comma-dangle change.
+[33maf59468[m [eslint config] [base] v4.0.1
+[33m5f02a6f[m [eslint config] [base] [deps] update `eslint-plugin-import`
+[33mb352ec6[m [eslint config] [base] [fix] Prevent trailing commas in the legacy config.
+[33ma9bfee0[m [guide] Add link to `eol-last` rule.
+[33m3ad2404[m Added link to Mozilla documentation on Function.bind
+[33m7fb8b03[m Document for-in restricted usage
+[33m7816731[m Allow importing devDependencies in tests
+[33m6db1af1[m [eslint config] [*] [Tests] stop testing < node 4.
+[33m3398610[m [eslint config] [base] v4.0.0
+[33mb3a02ae[m [eslint config] [breaking] [base] update `eslint` to v3
+[33md282e05[m Add import/no-restricted-paths to imports rules
+[33m82629f1[m [eslint config] [base] [Deps] update `eslint-plugin-import`, `tape`, `eslint-find-rules`
+[33mb45fdcd[m [eslint config] [base] add some `import` plugin settings
+[33m1f87054[m [eslint config] [base] [patch] `newline-per-chained-call`: bump the limit to 4.
+[33m9028379[m [eslint config] [base] [breaking] re-disable `import/extensions` rule
+[33mc9bcc7e[m Remove leading underscores for private properties
+[33m17b773e[m Merge pull request #902 from KevinGrandon/no_string_refs
+[33m36d1561[m Prevent using string refs.
+[33m34a9f07[m Minor typo: "coxcomb graph" v/s "coxcomb chart"
+[33m28a04a3[m [docs] Clear up “confusing arrows” example.
+[33ma597da5[m [eslint config] [base] [breaking] enable `rest-spread-spacing` rule
+[33md0973e8[m [eslint config] [base] add TODO for `object-curly-newline`.
+[33m622a3bc[m [eslint config] [base] [breaking] re-disable `newline-after-import`
+[33m51f9b04[m [eslint config] [base] [breaking] enable import rules: `newline-after-import`, `prefer-default-export`
+[33mee2cb41[m [eslint config] [base] [breaking] enable `no-mixed-operators` rule.
+[33m6980cce[m [eslint config] [base] [breaking] enable `import` rules:  - `no-named-as-default`  - `no-named-as-default-member`  - `no-extraneous-dependencies`  - `extensions`
+[33m5651e60[m [eslint config] [base] [breaking] enable `object-property-newline` rule
+[33m001efc7[m [eslint config] [base] update `eslint`
+[33m0413834[m Update README.md
+[33m343dc2c[m Remove parens around single argument in React example
+[33m0afde8f[m [eslint config] [base] [deps] update `eslint`
+[33m0814be6[m [eslint config] [base] [deps] update `eslint`, `eslint-find-rules`
+[33m22f59b6[m Adding link korean translation
+[33mdefa17e[m Added Syzygy Warsaw
+[33m90f5a47[m Updated deprecated Japanese translation link.
+[33mb4c49e9[m Merge pull request #909 from pietraszekl/patch-1
+[33m29eb575[m Adding link polish translation
+[33mf41b4df[m [eslint config] [base] [breaking] enable `no-prototype-builtins` rule.
+[33m4700d99[m [eslint config] [base] [breaking] enable `no-useless-rename` rule
+[33md9cb343[m [eslint config] [base] [breaking] enable `unicode-bom` rule
+[33mab4baf4[m [eslint config] [base] [deps] update `eslint`, `eslint-plugin-import`
+[33m89cfa0b[m [eslint config] [*] use `in-publish` because coffeescript screwed up the prepublish script for everyone
+[33meb76ede[m [eslint config] [*] [tests] Only run `eslint-find-rules` on prepublish, not in tests.
+[33m3fb9db5[m fixing broken link
+[33m267eec5[m Fix invalid code snippet in 23.2.
+[33md97d62a[m Fix react dev dep version
+[33m1db5522[m Fix typo
+[33mc247fd7[m Avoid using an array index as `key` prop, prefer unique ID
+[33m4c4210f[m Remove trailing whitespace.
+[33m199a0a7[m Add DoSomething.org to the list of organizations in README
+[33ma883917[m add chinese simplified for React/JSX style guide
+[33mb6e4b72[m [eslint config] [*] [deps] update `eslint`, `eslint-plugin-jsx-a11y`. ensure react is >= 13.0.0
+[33m429339e[m [eslint config] [*] fix quoting of rule properties.
+[33m8e125fa[m [eslint config] [base] [breaking] Enforce proper generator star spacing.
+[33m312cd01[m [eslint config] [base] `quotes`: Use object option form rather than deprecated string form.
+[33m43ccc3f[m Enable imports/imports-first rule
+[33me32079d[m Merge pull request #881 from akai/re-order-rules
+[33m34ccf90[m [eslint config] [base] [breaking] migrate import's settings/rules to a separate file.
+[33m3948eb6[m [eslint config] [base] [breaking] re-order rules
+[33m10f4dd8[m [eslint config] [base] [patch] `object-shorthand`: do not warn when the concise form would have a string literal as a name.
+[33m7a80837[m [eslint config] [base] [patch] Loosen `prefer-const` to not warn when the variable is “read” before being assigned to.
+[33m8d6d227[m [eslint config] [*] [tests] Even though the base config may not be up to date in the main package, let’s `npm link` the base package into the main one for the sake of travis-ci tests.
+[33m638b312[m [eslint config] [base] update `eslint`
+[33m4ac8aed[m Prepare to enable react-a11y rules
+[33mc7faa91[m [eslint config] [tests] Even though the base config may not be up to date in the main package, let’s `npm link` the base package into the main one for the sake of travis-ci tests.
+[33m788fb22[m [eslint config] [*] [deps] update `eslint-plugin-import`
+[33md68a067[m Prepare to enable import/prefer-default-export
+[33m5acae06[m Add whitespace between rules
+[33mdb73278[m [eslint config] [react] [patch] loosen `jsx-pascal-case` rule to allow all caps component names
+[33md25a199[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-plugin-react`
+[33mb660d4c[m Add semicolon in arrow functions section
+[33m03c5a1f[m [eslint config] v9.0.1
+[33md95dc3d[m [eslint config] [base] v3.0.1
+[33mbe5c90a[m [docs] Array.from, not Array#from
+[33m56a524a[m [eslint config] [base] [patch] re-disable `no-extra-parens`
+[33mba5d9f0[m add links to resources on mdn
+[33m330169d[m [eslint config] v9.0.0
+[33m8b396ab[m [eslint config] [deps] Update `eslint-config-airbnb-base`, `eslint-plugin-jsx-a11y`, `eslint-plugin-import`, `eslint-find-rules`
+[33m1b31efc[m [eslint config] [base] v3.0.0
+[33m92a3d55[m [eslint config] [base] [breaking] enable `import/no-mutable-exports`
+[33m36e0887[m [eslint config] [base] [patch] enable `import/no-duplicates`
+[33mb20cf19[m [eslint config] [base] [minor] enable `import/no-amd`
+[33m83c431d[m [eslint config] [base] [breaking] enable `no-class-assign` rule, to pair with `no-func-assign`
+[33me9aec9e[m [eslint config] [base] update `eslint-plugin-import`, `eslint-find-rules`
+[33mfd5c71c[m [eslint config] [base] [breaking] widen `no-extra-parens` to include everything, except `nestedBinaryExpressions`
+[33m6eec3a6[m Merge pull request #864 from taion/patch-1
+[33mf9089d0[m Add 4Catalyzer to users
+[33m4540293[m [eslint config] [*] [dev deps] update `eslint-find-rules`
+[33m6c25bcf[m [eslint config] [base] [breaking] Re-enabling `newline-per-chained-call`
+[33md1f2416[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`
+[33mf806ed6[m [Tests] on `node` `v6`
+[33mdc4130c[m [eslint config] [base] v2.0.0
+[33m31e8412[m [eslint config] [base] [breaking] enable `no-unsafe-finally` rule
+[33md85abc5[m [eslint config] [base] [semver-minor] enable `no-useless-computed-key` rule
+[33m56fd094[m [eslint config] [base] [deps] update `eslint`, `eslint-plugin-import`
+[33mc81727a[m Remove an extra backtick from the README.md
+[33m33ff1ad[m [eslint config] [deps] update `eslint-config-airbnb-base`, `eslint-find-rules`, `eslint-plugin-import`, `eslint-plugin-jsx-a11y`
+[33m3519daf[m [eslint config] [base] v1.0.4
+[33md453494[m [eslint config] [base] [deps] update `eslint-find-rules`, `eslint-plugin-import`
+[33m1e1772b[m [guide] [es5] Update whitespace and missing function names.
+[33m7431ef1[m Remove React from the readme of eslint-config-airbnb-base
+[33ma71bffa[m Fix README "4.5" bad reduce example
+[33m79af88d[m Clarify stateless component function naming
+[33m8f0f289[m [eslint config] [base] v1.0.3
+[33md1383a7[m [eslint config] [base] [semver-patch] Allow empty class/object methods.
+[33m117196b[m [eslint config] v8.0.0
+[33m44ae49e[m [eslint config] restore `jsx-quotes` rule, lost in 52d3401f953afcf09ca64dbbb177c6284832aae6
+[33m2d81a2d[m Started using AirBnB style guide.
+[33m49c5f3d[m [Tests] allow `npm install`/`npm test` in the project root to work in both sub packages.
+[33mf0b6eea[m [eslint config] Make `eslint-config-airbnb-base` a regular dependency.
+[33m277b087[m [eslint config] [deps] update `eslint-plugin-jsx-a11y`
+[33md0ddba1[m [eslint config] [base] [dev deps] update `eslint-find-rules`
+[33mf1ab480[m [eslint config] [deps] update `eslint-find-rules`, `eslint-config-airbnb-base`
+[33m0207503[m [eslint config] [base] v1.0.2
+[33m3c915dd[m [eslint config] [base] [patch] remove “break” statement from restricted syntax.
+[33m897732f[m Add arrow function returning object.
+[33m37e1c3c[m [eslint config] [base] v1.0.1
+[33md06147d[m [eslint-config] [base] [semver-patch] Allow `== null`.
+[33m2dfd520[m [eslint config] [react] Add guide section on `react/jsx-curly-spacing`
+[33m13cddaf[m [eslint config] [breaking] enable `react/jsx-curly-spacing` rule.
+[33m0241450[m Upgrade eslint-plugin-jsx-a11y 0.6.2 -> 1.0.1
+[33m7634162[m [guide] fix broken deep link to 'testing--yup'
+[33m52d3401[m [eslint config] [eslint config base] [breaking] Migrate non-React rules to a separate linter config.
+[33mbdbecf2[m Merge pull request #833 from bae-unidev/master
+[33m8c63dd9[m Remove false comment
+[33mbf8677d[m 'esnext' option has been deprecated
+[33me856d93[m [deps] update `eslint-plugin-react`, `eslint-plugin-import`
+[33ma9db06e[m [eslint config] Add `eslint-find-rules` to prevent missing rules.
+[33m12d08b3[m [eslint config] Add missing disabled rules.
+[33me1cbcbe[m [eslint config] [breaking] enable `global-require` rule
+[33m6efcda3[m [eslint config] [breaking] enable `no-restricted-syntax` rule.
+[33m140ce8b[m [eslint config] [breaking] disallow empty restructuring patterns
+[33m3efe10d[m [eslint config] [breaking] disallow empty methods
+[33mc97bd77[m [eslint config] [react] separate a11y rules to their own file
+[33m48ab6d6[m [eslint config] [react] [semver-minor] enable `jsx-indent` rule
+[33m066c3b1[m [eslint config] [react] [semver-minor] enable `jsx-equals-spacing` rule
+[33m970848f[m [eslint config] [semver-minor] enforce spacing inside single-line blocks.
+[33mc86cfaa[m [eslint config] [semver-patch] Enable `no-useless-concat` rule which `prefer-template` already covers
+[33mf468a52[m [eslint config] [tests] remove parallelshell
+[33mf268237[m [eslint config] [react] [semver-minor] Add `react/jsx-first-prop-new-line` rule
+[33m4ab7411[m [eslint config] [react] update `eslint-plugin-react`
+[33mc295604[m [eslint config] It doesn’t matter which react version we install since we’re just testing module resolution.
+[33mcbd2c38[m [eslint config] [dev deps / peer deps] update `eslint`
+[33m81d0164[m [eslint config] remove need for a local symlink.
+[33mfc1443b[m [guide] add link on perf of array iteration methods
+[33m688ef3c[m [guide] remove AIIFE to avoid CallExpression quirk.
+[33m56e6815[m [guide] Attempt to clarify filename conventions
+[33meb4f7cb[m Properly capitalize ECMAScript
+[33m531950c[m Add plugin requirements to config package readme
+[33m92a66cc[m [guide] [breaking] Disallow leading underscores - there’s no such thing as “private properties”.
+[33m4af3f97[m Merge pull request #825 from lencioni/eslint-plugin-import
+[33m0fe4f55[m Enable import/no-unresolved and import/export rules
+[33m662519e[m Link to eslint.org instead of github where possible
+[33m956f915[m [eslint config] [semver-minor] enforce `no-underscore-dangle`
+[33m9060fba[m Added eslint-plugin-jsx-a11y to install script
+[33mbcc5c5d[m [Tests] run subpackage tests at top level.
+[33m93b0a10[m [eslint config] v7.0.0
+[33m66ec951[m [eslint config] [peer deps] update `eslint-plugin-jsx-a11y`
+[33ma929776[m Improve guideline for image alt text
+[33mf5d6e96[m [guide] Update eslint rule for keyword-spacing, small fix for consistency
+[33m7c0bb0a[m [eslint config] [breaking] enable `react/require-render-return`
+[33m7b57311[m [eslint config] [semver-minor] enable `jsx-pascal-case` rule.
+[33m6fd8fb6[m [eslint config] [dev deps] update `eslint`, `eslint-plugin-react`
+[33mc536698[m Merge pull request #813 from lencioni/jsx-a11y
+[33m3f73e35[m Use jsx fenced codeblocks for JSX code
+[33mf697a15[m Add note and rule about not using accessKey
+[33m0c3b13f[m Add note and rule about valid, non-abstract ARIA roles
+[33mf2aca29[m Add note and rule about redundant alt text
+[33macbddc1[m Add note and rule about image alt text
+[33m6e77006[m Adding The Nerdery to the "In the Wild" section
+[33ma2bdbb8[m Add KickorStick to 'In the Wild'
+[33mf21412c[m Broken link to Classes and constructors
+[33m6671a55[m CHORE - Remove Trailing Spaces
+[33m76e1e4c[m [eslint config] [breaking] Add `no-dupe-class-members` rule + section.
+[33m5b9f081[m [eslint config] [deps] update `eslint`, `react`
+[33m062929e[m [eslint config] [breaking] error on debugger statements
+[33m5ec8765[m Add Chartboost to 'In the Wild'
+[33m9415b88[m Add missing description for 7.2
+[33m81241b8[m [eslint config] [breaking] add `no-useless-escape` rule.
+[33m2456512[m [eslint config] [breaking] add `no-duplicate-imports` rule.
+[33m5ce6fb1[m [eslint config] [dev deps] update `eslint`, `eslint-plugin-react`
+[33mff6e1d0[m [eslint config] v6.2.0
+[33mec898a6[m Add SysGarage to list of organizations
+[33m94ace27[m Allow arrow functions in JSX props
+[33m8db205c[m Fix "object destructuring for multiple return values" example
+[33mf796cfc[m [peer deps] update `eslint`, `eslint-plugin-react`
+[33m5ded256[m [Fix] re-enable `no-confusing-arrow` rule, with `allowParens` option enabled.
+[33m9eb24d6[m [editorial] clean up some constructor examples
+[33m6f125a5[m fix react/prefer-stateless-function link
+[33m8fe2f9e[m [eslint config] [dev deps] update `eslint`, `eslint-plugin-react`
+[33mc38cdd2[m Add ascribe's styleguide to the list
+[33m2ff6c42[m Update README.md
+[33m4709e64[m [guide] Permanent links.
+[33m9e87e1d[m [guide] add some more justification for one-var and `String()` type coercions
+[33m01fc30b[m [Dev Deps] update `tape`
+[33m34f64c2[m Add defaults for `react/jsx-no-bind`
+[33me7f5e0f[m Vietnamese language
+[33m8b6abf8[m Update README: Document corresponding jscs rules
+[33m0ece94f[m [eslint config] v6.1.0
+[33m5162975[m Merge remote-tracking branch 'origin/pr/772'
+[33m7b8a0ca[m [Dev Deps] update `eslint-plugin-react`
+[33m8761636[m [Dev Deps] update `eslint`, `tape`, `eslint-plugin-react`
+[33m762b751[m fixed a broken link to REI's JS style guide
+[33m03d0054[m Enable react/prefer-stateless-function rule
+[33m32e3e0f[m Update README.md
+[33m246cde0[m Fix the typo error in JSHint link
+[33m607ad01[m change wording for 8.2 for consistency
+[33m7684892[m fixes tiny typo's on JSCS rules
+[33md321f68[m Fix word spacing and preserve consistent quotes
+[33mb32122d[m Merge pull request #762 from jahvi/patch-2
+[33m2d8409c[m Enforce literal syntax for array creation
+[33m30c448d[m Updated "In The Wild" to include Brainshark.
+[33mcba519a[m Updated CHANGELOG.md
+[33m714f71d[m Added getter/setter info
+[33mdb8b07f[m Fixed README typo
+[33m6c637b9[m [eslint config] v6.0.2
+[33m33f1ddb[m Disable `no-confusing-arrow` until eslint’s bug is resolved.
+[33mf12b2a1[m [Dev Deps] update `babel-tape-runner`.
+[33m50ff33d[m Small typo fix in 18.6 'bad'-example.
+[33mf4e94ad[m v6.0.1
+[33m12fb486[m Disable `newline-per-chained-call` until `eslint`’s bug is resolved.
+[33m8a6f009[m Fix no-useless-constructor example.
+[33mb648de3[m [eslint config] v6.0.0
+[33m07e3cde[m [eslint config] Update to `eslint` v2: Merge remote-tracking branch 'origin/harry-eslint-v2'
+[33m4574659[m rearrange comma-dangle rule to match es5/es6 codestyles, fixes #741
+[33m0f32b96[m [changelog] update changelog for 6.0.0
+[33m3983d38[m [eslint-v2][arrays] fix example
+[33mb79e951[m [eslint-v2][arrays] update array-callback-return good/bad ex
+[33m822c0df[m [eslint-v2][react] jsx-sort-prop-types => sort-prop-types
+[33m0794853[m [eslint-v2][react] set ignoreTranspilerName to false
+[33m133fc51[m [eslint-v2][react] add static-methods to top of sort-comp order
+[33mff0adbe[m [eslint-v2][react] acceptTranspilerName => ignoreTranspilerName
+[33me0959d0[m [eslint-v2] fix rule links in readme
+[33m6560937[m [eslint-v2][template strings] add template-curly-spacing rule, fix #716
+[33m1f12a12[m [eslint-v2] fix empty constructor example
+[33me1a087f[m [eslint-v2] add prefer-rest-params
+[33mc5b4f05[m [eslint-v2] add one-var-declaration-per-line
+[33me6cbcf4[m [eslint-v2][whitespace] add no-whitespace-before-property rule
+[33m92df635[m [eslint-v2][variables] add no-self-assign
+[33m3762c9a[m [eslint-v2] add no-new-symbol rule
+[33mba10353[m [eslint-v2][arrow functions] improve examples
+[33m6a03a32[m [eslint-v2][arrow functions] add no-confusing-arrow rule
+[33m172dffb[m [eslint-v2][whitespace] add newline-per-chained-call rule
+[33mfbd9c35[m [eslint-v2][arrays] add array-callback-return rule
+[33ma126d0b[m [eslint-v2] enforce yield-start-spacing, no-unused-labels, no-extra-label
+[33mc05b2da[m [eslint-v2] add new rules, disabled:
+[33m91b8365[m [eslint-v2][constructors] fix bad + good examples
+[33m1cbc628[m [eslint-v2][constructors] disallow unnecessary constructors
+[33m5109c84[m [eslint-v2] fix no-labels rule
+[33m75807b9[m [eslint-v2] no gens, no dup props in obj literal
+[33maa9add1[m [pkg] add harry to contributors
+[33m8b58d87[m v5.0.1
+[33md952efe[m [Fix] `eslint` peerDep should not include breaking changes.
+[33m3aa8c58[m [eslint-v2] fix keyword-spacing style and sorting
+[33m4f32315[m [eslint-v2] ecmaFeatures => parserOptions
+[33mdff5099[m [eslint-v2] set es6 env to true
+[33mda4213c[m [eslint-v2] fix no-labels rule
+[33m1efb11c[m [eslint-v2] space-after/before/return/throw/case => keyword-spacing
+[33md49a1ed[m [eslint-v2] no-empty-label => no-labels
+[33m1bb72ab[m [Deps] update `eslint` to v2, `eslint-plugin-react` to v4
+[33m44cc90f[m Merge pull request #715 from lencioni/sort-comp-statics
+[33me007ec5[m Sort static methods above constructor for React
+[33m24e7fd0[m Added parenthesis to 'good' example in 8.2
+[33m06fab80[m v5.0.0
+[33ma8461e0[m [eslint config] [fix] fix `npm run lint`
+[33m6f1d928[m [eslint config] [fix] `s/no-case-declaration/no-case-declarations/g` (from #712)
+[33mb6920af[m [eslint config] [dev deps] update `eslint-plugin-react`, `react`, `tape`
+[33m7e15ccf[m [eslint config] [breaking] disallow unneeded ternary expressions.
+[33mfa4925b[m Merge pull request #712 from lencioni/no-case-declarations
+[33m4d74fe1[m Add example of a case clause that does not need a block
+[33m38d9b34[m Avoid lexical declarations in case/default clauses
+[33m206e13b[m [guide] remove trailing whitespace
+[33md293e74[m add section 15.5 - Ternaries
+[33m7eb7b78[m Minor typo
+[33m51510a4[m Fixed capitalization and comment spacing
+[33m784d029[m Edit sample code in 24.1 to follow rule 8.1
+[33m79a6bfa[m Added names to invalid function declarations
+[33m760e507[m Fixed capitalization
+[33mda1d031[m [guide] [react] add a note preferring normal functions for functional stateless components.
+[33m94776c3[m Remove language interpretable as an ableist slur
+[33m2a7e19a[m Merge pull request #695 from airbnb/move-rules
+[33m7293a0f[m [rule links] add labels back
+[33m992a9ce[m [react][rule links] add eslint labels back
+[33md852f51[m [react][rule links] condense lines
+[33m2c06d87[m [rule links] reduce visual clutter
+[33m02e1b4e[m Fixed capitalization
+[33mc25dbac[m v4.0.0
+[33m0839881[m Merge pull request #679 from jshen212/patch-1
+[33m2c9833f[m add WeBox Studio to the organizations list
+[33mfb3c4ca[m Fixed minor capitalization change in Hoisting
+[33m06746fa[m Merge pull request #688 from joaomilho/patch-2
+[33m36765e4[m add avant to users
+[33m4d2578c[m Fix PR comments
+[33ma568c7c[m Remove space from jsx literal and add space to function definition
+[33m45834dd[m Favour stateless functions over classes when there's no state
+[33maa6a20e[m Merge pull request #683 from kvzivn/patch-1
+[33mfb65b9a[m [guide] fix a few IIFE examples
+[33m018dd6e[m arrow-parens
+[33m586b7d9[m [docs] remove trailing whitespace
+[33m93a957f[m fix typo
+[33m56ea6c7[m remove specific rule values in text
+[33m2bd22f0[m Document corresponding jscs rules
+[33m396e461[m [Tests] use `parallelshell` to parallelize npm run-scripts
+[33mab58d3b[m [Tests] run `npm run lint` as part of tests; fix errors.
+[33ma4845a8[m Update license year range to 2016
+[33mc778ade[m Fix case type on line 3 comment
+[33m9498b3f[m Clearly show that [] is truthy
+[33m397f5bb[m assign variables: give a reason for the assignment
+[33m90e6cd1[m 22.3: Add Link to eslint rule.
+[33m8e47e39[m Merge pull request #677 from simono/patch-3
+[33m54b4dea[m Add `prefer-arrow-callback` to ES6 Rules.
+[33m44be6af[m Merge pull request #675 from simono/patch-1
+[33m59a0bcc[m 7.3: Add Link to eslint rule.
+[33m4ef335e[m [eslint config] [breaking] require outer IIFE wrapping; flesh out guide section.
+[33mc2fd8fb[m Add missing ES6 rules to ESLint config.
+[33maf81beb[m v3.1.0
+[33m7f62252[m [guide] clarify function spacing in 18.3
+[33mccef929[m Merge pull request #575 from SimenB/patch-1
+[33m96ef087[m Allow multiple stateless components in a single file
+[33m74561b6[m v3.0.2
+[33me171f8a[m Merge pull request #664 from silvenon/patch-1
+[33m8c70a8b[m Ignore URLs in max-len
+[33mc4c724c[m Merge pull request #663 from silvenon/patch-1
+[33m557b4da[m Link to the eslint rule for radix in parseInt
+[33med1f484[m v3.0.1
+[33m9af944d[m [eslint config] [fix] because we use babel, keywords should not be quoted.
+[33ma260d20[m Merge pull request #658 from foaly-nr1/patch-1
+[33m6120656[m Fixed typo in URL
+[33m06595a2[m Merge pull request #657 from mccambridge/master
+[33m5204753[m clarity in destructuring code example
+[33m286e845[m v3.0.0
+[33m81c5847[m Fix a bug introduced in f2afce75e949eacd1ba64e89b863105828976f20 / #581
+[33m77eda9a[m Merge pull request #632 from airbnb/ljharb/quote_props
+[33mccc1fab[m Merge pull request #579 from tomekwi/fix-braces-text
+[33m4ca5764[m Require parentheses
+[33m766f358[m Fix typo
+[33mb54ce43[m Clarify 8.4
+[33m32ec9dd[m Make 8.2 and 8.4 simpler and more explicit
+[33mbc9faf6[m Bring back note about braces
+[33m619ff1c[m Merge pull request #655 from awitherow/master
+[33mfd6867d[m missing 's', create(s) under Method
+[33m7890b6c[m Merge pull request #652 from strburst/link-comma-dangle
+[33m896783d[m Link newer ESLint rule (namely comma-dangle)
+[33mceb4195[m Merge pull request #651 from gergoerdosi/max-len
+[33m8e54961[m Fix max-len rule definition
+[33m6184703[m Merge pull request #649 from AlicanC/never-mutate-parameters-link
+[33mf4b4ff6[m Add ESLint link for "Never mutate parameters." rule.
+[33m799085f[m Merge pull request #647 from AlicanC/cleanup
+[33md97ed42[m Merge pull request #648 from yuyokk/patch-1
+[33mbbaaf74[m Add missing back tick
+[33m3869c21[m Fix indentation and spacing.
+[33maacaca8[m Merge pull request #643 from AlicanC/split-never-mutate-parameters
+[33m6d9a787[m Make reassigning a separate rule.
+[33m8c241be[m Merge pull request #637 from evenfrost/master
+[33m6d00939[m Merge pull request #639 from chrisngobanh/max-len
+[33me2e4724[m Address comments in #639
+[33mf1c249b[m Reword section 6.2 to recognize the line length
+[33m69d3327[m Enable ESLint rule on limiting maxiumum length of line (max-len)
+[33md11f266[m Update .jshintrc with new line length
+[33mb7fbc7b[m Add section 18.12 on line length
+[33mc9a9194[m Preserve strict rule for default export
+[33mfbf81eb[m Merge pull request #581 from tikotzky/update-eslint-react
+[33mf2afce7[m add default config to all rules which take a config
+[33mb294e7c[m add missing rules from eslint-plugin-react
+[33mfcd1c1d[m Merge pull request #619 from kesne/jgens/react-cleanup
+[33me12e5f0[m Removing name prefix rules.
+[33mae69188[m Removing file extensions. Fixing typos.
+[33m5c3137d[m Cleaning up the react styleguide. Adding additional info in props.
+[33m8815205[m Merge pull request #421 from chrisngobanh/jshintrc-fix
+[33m8989a8a[m Rename jshintrc to .jshintrc
+[33m75617bd[m Merge pull request #536 from amsardesai/add-version-badge
+[33m4adf930[m Merge pull request #576 from evolution-gaming/in-the-wild
+[33m1ac8baa[m Merge pull request #636 from lencioni/react-readme-cleanup
+[33m474087c[m [readme] Use consistent whitespace in react readme
+[33ma7d3e02[m [readme] Add missing heading to react TOC
+[33m450e64c[m [readme] Add backticks around code items in react readme
+[33m76ff913[m Permit strict mode
+[33m055aa14[m [readme] Clean up isMounted section in react readme
+[33meea8efe[m Merge pull request #635 from lencioni/no-is-mounted
+[33mf2dc504[m [eslint-config] [minor] Enable react/no-is-mounted rule
+[33m0af35c9[m Merge pull request #634 from lencioni/sort-prefer-es6-class
+[33m6602586[m [eslint config] [minor] Sort react/prefer-es6-class alphabetically
+[33m4cdc3fe[m [eslint config] [breaking] enable `quote-props` rule.
+[33mc98990c[m [eslint config] [minor] enable react/prefer-es6-class rule
+[33mc584319[m [eslint config] [Dev Deps] update `eslint-plugin-react`
+[33m88484ce[m Merge pull request #627 from amplii/no-param-reassign-with-props
+[33ma533a4f[m added newlines after each function
+[33mf797130[m update examples for style add link to no-param-reassign rule documentation
+[33m2589c67[m update best-practices config to prevent parameter object manipulation added good/bad examples of parameter mutation to the readme
+[33mfcc41ee[m v2.1.1
+[33m28476a2[m [eslint config] add rule link and defaults to `jsx-quotes` rule
+[33m09bf5e8[m Merge pull request #622 from billyjanitsch/jsx-quotes
+[33mbbcb137[m Remove deprecated react/jsx-quotes
+[33m60b01bd[m [eslint config] v2.1.0
+[33m0fc31ea[m [eslint config] fix b1500397e1bba4120b10b850038bfff3177fda42
+[33m4ab41ed[m [eslint config] [Dev Deps] update `eslint`
+[33ma7541c9[m Merge pull request #582 from jkrems/jk-require-resolve
+[33mb150039[m [eslint config] enable `object-shorthand` rule.
+[33m28a83da[m Merge pull request #620 from OutBoxSoft/master
+[33m2ab6253[m Update README.md
+[33m5989125[m Merge pull request #618 from kesne/jgens/react-defaults
+[33md02a506[m Adding links to react rules for quick reference.
+[33me9b1ef9[m Adding links to lint rules in react styleguide.
+[33md5a636f[m [react] Including missing defaults to the react eslint
+[33m8c76e4f[m Merge pull request #617 from frenzzy/patch-1
+[33m514bd87[m Require space before/after arrow function's arrow (arrow-spacing)
+[33m802725d[m Merge pull request #615 from winterbe/fix15
+[33m721b8cd[m Fix syntax highlighting in section 15
+[33m6c89f95[m Merge pull request #608 from airbnb/document-eslint-rules
+[33ma1efff9[m Documents corresponding eslint rules
+[33mf0fb395[m Merge pull request #607 from JonAbrams/patch-1
+[33ma31c72a[m Fix example for section 7.11
+[33m4c0a70e[m [eslint config] v2.0.0
+[33m326100a[m Merge pull request #605 from airbnb/ljharb/fix_function_spacing
+[33m2c3b75d[m Merge pull request #606 from airbnb/ljharb/fix_switch_indent
+[33m4ccd04b[m I abhor switch statements, but their indentation should be:
+[33m599ca4f[m Require a space between `function` and `(`, and `function` and the function's name, and disallow spaces between the function's name and `(`.
+[33m6e6a2b9[m Merge pull request #604 from Bisk/master
+[33meee4371[m Merge pull request #600 from zwhitchcox/patch-1
+[33me754dcc[m Update README.md
+[33mb640c95[m Merge pull request #602 from kesne/jeopardy
+[33m2944b9b[m Adding jeopardybot to styleguide users.
+[33m287dee4[m Add facebook's react to "In the Wild"
+[33m33e23fb[m Merge pull request #594 from pigoz/parens-brackets-curlys
+[33m6debbcd[m Add Section 18.11 - Add spaces inside curly braces
+[33mee3759a[m Add Section 18.10 - No spaces inside brackets
+[33m2557a5b[m Add Section 18.9 - No spaces inside parentheses
+[33me032613[m [eslint config] v1.0.2
+[33m7476c31[m Merge pull request #592 from ariporad/patch-1
+[33me424a24[m Enable rest params!
+[33m639e3c7[m Merge pull request #584 from jonathanp/master
+[33ma3495e0[m Avoid the word "mutate" while explaining `const`
+[33mc501e0d[m Use require.resolve to allow nested extend
+[33m60480c0[m Merge pull request #578 from adrienverge/enforce-rule-18.5
+[33m09c8589[m [eslint] Enforce rule 18.5
+[33m96b0057[m Organisation renamed
+[33m4c1fbf2[m Add Evolution Gaming to 'In The Wild' section
+[33m87c9507[m Merge pull request #572 from joscha/patch-1
+[33maa6ca6f[m docs: babel-eslint not neede since 1.0.0 any more
+[33md9b5585[m [eslint config] v1.0.0
+[33mc0ef454[m Merge pull request #570 from airbnb/ljharb/update_eslint
+[33md432f58[m Add `eslint` as a peer dep, 1.0 or greater
+[33m0b7c979[m [eslint] Remove `babel-eslint` dependency.
+[33m88603b8[m [eslint] update `eslint`, `eslint-plugin-react`, `react`, `tape`.
+[33mf4e5967[m Merge pull request #547 from chrisngobanh/padded-blocks
+[33m7b0ff12[m eslint-config-airbnb 0.1.1
+[33mc5d3a34[m Merge pull request #569 from airbnb/jake/remove-id-length-rule
+[33m06ed38d[m [eslint] remove id length rule (too much nutrage)
+[33m8514f74[m Merge pull request #551 from majapw/patch-1
+[33ma4e5858[m Merge pull request #566 from airbnb/fix-stray-eval
+[33mf130c0f[m [6.5] add backticks around stray eval. fixes #556
+[33m88d5084[m Merge pull request #564 from frankenbot/master
+[33mbbeb6a0[m Merge pull request #562 from airbnb/ljharb/testing
+[33m49293bb[m Update redirects
+[33mf2f8186[m Start to write a realistic "testing" section
+[33m2c172bb[m Merge pull request #561 from adrienverge/issue-539
+[33m7b834b9[m eslint: Fix `no-mixed-spaces-and-tabs` turn off
+[33m893ffb3[m Merge pull request #560 from rhbecker/update-eslint-config_no-const-assign
+[33mb056ad0[m Flag modification of variables that are declared using `const` keyword as an error.
+[33m01ba082[m Merge pull request #554 from adrienverge/space-before-keywords
+[33mab0a6ca[m eslint: Add missing `space-before-keywords` rule
+[33mefe7507[m export default should not be inline with the class declaration
+[33m4b5348a[m Add examples with if statements to 18.8
+[33md276b0c[m Update 17.2 to allow comments in the first line of a block
+[33m9897e7d[m Add Section 18.8 - No padded blocks
+[33m89d1e07[m Merge pull request #544 from HubSpot/in-the-wild
+[33m8dd0b75[m Add HubSpot to 'In The Wild' section
+[33m8d6a1b4[m Merge pull request #534 from cooperka/react-quote-reasoning
+[33m1b46be0[m Added version badge to eslint-config-airbnb
+[33mef7fbea[m Add further reasoning for using double quotes in JSX
+[33md4f69ef[m Add reasoning for using double quotes in JSX
+[33mf823047[m Merge pull request #533 from ecosia/update-inthewild
+[33m3c3c9a2[m Fix link text.
+[33mbe61bbd[m Add Ecosia to "In the Wild" section.
+[33m98a7690[m Merge pull request #530 from taion/patch-1
+[33m8da7adb[m Clarify strict ESLint rule
+[33m4268bba[m Merge pull request #528 from airbnb/jake/release-eslint-0.1.0
+[33me65c6af[m eslint-config-airbnb v0.1.0
+[33mcd082f4[m Merge pull request #527 from airbnb/jake/legacy-ruleset
+[33mb42e9b8[m explain eslint-config-airbnb rule choices
+[33m170dbeb[m make exported rulesets extend relative to eslint-config-airbnb
+[33mde90317[m create legacy.js to export es5 rules
+[33m16f81fb[m Merge pull request #526 from taion/eslint-config-defaults
+[33m9c7674a[m Update for upstream dependencies
+[33mdb6c4a8[m Remove differences from eslint-config-defaults
+[33mdaea8a6[m Use rules from eslint-config-defaults
+[33md14e8b7[m Merge pull request #524 from DannyNemer/patch-1
+[33m7d0e236[m Clarify proper type casting for Numbers
+[33m58c901c[m use eslint 1.3.0 (fixes #515)
+[33me40ea1c[m update readme for eslint-config-airbnb 0.0.9
+[33mf25c85e[m eslint-config-airbnb 0.0.9
+[33m60fe3a7[m Merge pull request #516 from hyperoslo/add/hyperoslo-in-the-wild
+[33m4200452[m Merge pull request #517 from hyperoslo/change/in-the-wild-instructions
+[33m7619b85[m Remove issues from how to add to “in the wild”
+[33maf18097[m Add Hyper to the “in the wild” list in README
+[33mf0619f6[m Merge pull request #499 from honzi/honzi-patch-2
+[33mc42275f[m Merge pull request #491 from gilbox/react-terse-export-syntax
+[33m392a08a[m Merge pull request #505 from amsardesai/add-id-length
+[33m15780d5[m Added id-length documentation url
+[33m867bfde[m Added id-length rule to style guide
+[33m69b86bd[m Merge pull request #502 from againer/patch-1
+[33m9405b1d[m add semicolons to const declarations in 19.2
+[33m24dc126[m Merge pull request #500 from Weblors/patch-4
+[33mb043025[m Add to list of In the Wild organizations
+[33m2aaaa3d[m improve formatting of Chinese language links
+[33m0e7b56f[m Merge pull request #497 from abrkn/master
+[33m5695dc1[m Make eslintrc dependencies copy-pasteable
+[33m39b6002[m Merge pull request #494 from johnmanong/default-parameters-last
+[33meeed55c[m [ong] swap order of new entry
+[33m701cbb9[m [ong] Default parameters go last.
+[33m13d782f[m Merge pull request #492 from airbnb/no-export-prop-types
+[33m3307caf[m do not export propTypes
+[33m1733557[m [react] inline export syntax
+[33m8a62831[m Merge pull request #489 from hidace/master
+[33m933b367[m update spelling to clarify JSX rather than JS
+[33mb72b00d[m Merge pull request #484 from aaronjensen/patch-2
+[33mc95af97[m Add no-undef
+[33m79bce5f[m Merge pull request #482 from justjake/master
+[33m4aab909[m Merge pull request #481 from airbnb/harry/css
+[33m844d3cf[m [other] css/scss => CSS & Sass
+[33m761bac6[m [other] add links to other style guides
+[33m64e13a2[m eslint-config-airbnb 0.0.8
+[33mfde9c12[m Merge pull request #479 from justjake/jake/some-small-issues
+[33m2d90ebf[m update README with new package structure
+[33m7646a86[m lint eslint-config-airbnb with eslint-config-airbnb/base
+[33m048e22e[m somewhat modularize eslint-config-airbnb; add some tests
+[33m425e1f9[m Merge pull request #478 from tayre/typo_fix
+[33m6175c67[m s/Javascript/JavaScript
+[33md2be5f3[m Merge pull request #446 from tschuy/master
+[33m67c0f0e[m Merge pull request #475 from airbnb/react_export_prop_types
+[33m2c26413[m Merge pull request #461 from slava-sh/patch-1
+[33m0068cc1[m Put custom component methods before render methods
+[33mc4fdbc2[m Recommend exporting `propTypes` as a named export
+[33m909fc8b[m Merge pull request #463 from nkt/feature/simplify-eslint-config
+[33mfff3d6d[m Merge pull request #472 from tomekwi/implicit-return-#438
+[33mbfbb074[m Oops, keep to 13.1!
+[33m417f989[m Bring back explicit return in 8.1 example
+[33m60360bd[m Match 8.4 indentation to other rules
+[33m3aabe2c[m Upgrade half of 8.2 to another rule
+[33m5b8b56e[m Upgrade a note about parens to another rule
+[33m5634c4c[m Update existing example
+[33m4957071[m Allow implicit return + one multiline expression
+[33m9e40dd1[m Merge pull request #471 from comparaonline/add-comparaonline
+[33m52a3344[m Add ComparaOnline to 'In The Wild' List
+[33m6b1239b[m Merge pull request #467 from chrisngobanh/master
+[33mce0ce5e[m Merge pull request #468 from udivankin/patch-1
+[33m1e2ed0b[m Update README.md
+[33me8b87a5[m Updated 25.1 to include a case with a hyphen in the classname
+[33m20b6913[m Simplify ESLint config package.
+[33mcac2d28[m Merge pull request #459 from airbnb/goatslacker-patch-1
+[33md455d6a[m Amendments section to encourage forking
+[33m0d3a649[m Merge pull request #455 from tomekwi/patch-5
+[33md874a94[m Mention eslint-config-airbnb
+[33m220696b[m Merge pull request #453 from airbnb/harry-add-badge
+[33md4e6413[m [readme] add downloads badge
+[33m21295b0[m Merge pull request #452 from springload/add-springload
+[33mb3357f5[m Add Springload to "In the Wild" list
+[33mea093e0[m Merge pull request #449 from justjake/jake/spaced-comment-lenient
+[33mff4dc46[m [eslint] allow +, -, =, ! in comments without a space
+[33m26194e2[m Merge pull request #448 from justjake/jake/packages
+[33mdbbf71b[m eslintrc extends eslint-config-airbnb
+[33mcf5266b[m [eslint] document dependences in README
+[33ma45dfe3[m [eslint] remove peerDependencies
+[33mabc8531[m [eslint] add readme to eslint-config-airbnb
+[33mf5cac3c[m [eslint] remove most dependencies
+[33m2f55be7[m [eslint] move .eslintrc into packages/eslint-config-airbnb
+[33m1b212cf[m Merge pull request #431 from pascalduez/pr__update_eslint_config
+[33md2db3b6[m change duplicate 18.5 to 18.6
+[33m0c29596[m Merge pull request #395 from Ryan-McBride/patch-1
+[33m4070463[m Merge pull request #404 from airbnb/harry/100-char
+[33mfa1fd87[m Merge pull request #442 from tomekwi/fix-eslintrc
+[33m3c260d8[m Get rid of `no-reserved-keys` in the .eslintrc
+[33m63bece1[m Merge pull request #436 from airbnb/harry/single-line-comments
+[33m63bf905[m [comments] update 17.4, 17.5 examples to follow 17.2. fixes #430
+[33mbd98ed3[m Merge pull request #432 from lvarayut/master
+[33m8b8b9b8[m Add You Don't Know JS: ES6 & Beyond book
+[33mfcbaa4d[m Replace Annotated ECMAScript 5.1 with Standard ECMA-262 for ES6
+[33m5e7188c[m Merge pull request #425 from airbnb/goatslacker-patch-1
+[33m12e3ec1[m Merge pull request #420 from iamstarkov/iamstarkov-patch-1
+[33m6317e6b[m Merge pull request #396 from Ryan-McBride/patch-2
+[33m2af7a56[m Update deprecatd rules - no-wrap-func -> no-extra-parens - spaced-line-comment -> spaced-comment
+[33md35c81c[m Merge pull request #158 from orionhealth/redundant-newline
+[33m37a3032[m Merge pull request #367 from christophehurpeau/patch-1
+[33m4b70374[m Update React style guide with new rules
+[33mac8ff65[m add constructor
+[33mea4bf2f[m Merge pull request #423 from eistrati/patch-1
+[33m2ee0ff3[m Adding MitocGroup fork
+[33m78f652a[m Merge pull request #422 from huballin/master
+[33m77c586b[m Here's some of love :) Nice document we're really happy to implement this
+[33ma048ebf[m Added info on other implementation of Function constructor
+[33mf1d5243[m changed to single quotes to match style
+[33m0aa8d97[m Merge pull request #412 from bramschulting/patch-1
+[33ma67ee27[m Add Blendle to list of organizations
+[33m22ae076[m Merge pull request #410 from denizozger/master
+[33m232054a[m Fixed a typo on README
+[33m1beaa2a[m Merge pull request #409 from benjaminapetersen/typo/fix-jedis
+[33m89d75d9[m Plural Jedi is Jedi.  Sorry, had to do it.  :)
+[33md3f7918[m Merge pull request #405 from fredericksilva/fs/fixed-additional-trailing-comma
+[33m8370c03[m  fixed additional trailing comma - close #393
+[33meba9dbd[m [strings] 80 char => 100 char
+[33mef7b5cc[m Merge pull request #403 from jonchretien/typo-fixes
+[33m81f5d8d[m fixed typos & removed dead link
+[33md9b87de[m Merge pull request #398 from Ryan-McBride/patch-4
+[33m060944d[m Merge pull request #399 from Ryan-McBride/patch-5
+[33m23b3f4b[m Fixed typo in 19.2
+[33m13fe13b[m Fixed typo in 13.4
+[33m70024df[m Merge pull request #397 from Ryan-McBride/patch-3
+[33m4eea062[m Fixed typo in 9.4
+[33m27d388d[m Update to warn against Function constructor
+[33ma513163[m Update to include warning against using eval.
+[33m8d2a833[m Merge pull request #384 from bettiolo/master
+[33m383b6a6[m Added links to JSX plugin's documentation and some links to `env` documentation and  plugins repositories
+[33m49f9a56[m Merge pull request #380 from rodocite/master
+[33m7b336c7[m Merge pull request #382 from framini/patch-2
+[33m7b64a9d[m fix doc url and little typo
+[33ma8823a4[m Merge pull request #381 from dimitardanailov/patch-5
+[33m5922236[m Change style guide of point 23.3
+[33m4a19aa8[m Fix Back to Top link spacing
+[33m0627472[m Add Back to Top link
+[33m8281437[m Merge pull request #375 from mdarse/patch-1
+[33mae84fbe[m Fix typo
+[33m10f6d6a[m Merge pull request #332 from tomekwi/patch-5
+[33mee89999[m Allow reserved words as keys in ES6 module context
+[33m38d2282[m Merge pull request #374 from airbnb/horace/jsx-ext-for-react
+[33md2792f2[m Recommend using .jsx extension for React components, rather than .js.
+[33m128cb7b[m Merge pull request #373 from nkt/patch-1
+[33mb020a43[m Added "prefer-const" rule
+[33ma70000b[m Merge pull request #372 from 0xCMP/patch-1
+[33mfe42d0b[m Made single quotes to double quotes
+[33me9b59b7[m Update .eslintrc with other react class properties
+[33m2626e0b[m Merge pull request #370 from ManojAMK/ManojAMK-patch-1
+[33m26dd043[m Update README.md
+[33m53ac64a[m 18.6: blocks and blank line: add example with array
+[33m8599621[m Merge pull request #357 from arianf/trailing-comma
+[33m7e480c1[m Merge pull request #365 from tgolen/patch-1
+[33m25a2430[m Add Expensify to the list of organizations using this style guide
+[33ma872822[m Merge pull request #352 from sivan/master
+[33mc5ed909[m Merge pull request #364 from aniss/master
+[33m1429a20[m update(README.md): added Airbnb Style .eslintrc link
+[33m2a1f4f4[m Merge pull request #362 from carterchung/patch-1
+[33mc43415e[m Merge pull request #363 from carterchung/patch-2
+[33ma2e2356[m Added bullet/indentation
+[33mfb45e22[m Added missing period
+[33m6887c84[m Merge pull request #359 from ycavatars/master
+[33m7a7bec1[m add missing componentDidUpdate
+[33m3946480[m added trailing comma
+[33mf33e85e[m Merge pull request #356 from bhamodi/patch-1
+[33ma6796f0[m Update .eslintrc
+[33m12e0bd4[m Merge pull request #350 from justjake/jake/eslint-sharable-conf
+[33m2539557[m Change Chinese Translation to a more official like version The current Chinese version translated by adamlu is a modified version which as he said change/delete some rules from the original and it's base on the version 2 years ago. I transalte a new version base on current style guide of es5 version.
+[33mc3a94c1[m add keyword "eslintconfig" to eslint-config-airbnb
+[33m1676f2b[m bump eslint-config-airbnb version to 0.0.2
+[33mf2da99e[m manually load commented JSON
+[33m6b40c83[m create package eslint-config-airbnb
+[33m5cbb666[m Merge pull request #347 from airbnb/goatslacker-patch-1
+[33mcbcb09f[m Update README.md
+[33m7ac20d6[m Merge pull request #346 from justjake/jake/eslint-react
+[33ma570478[m Amend the arrow function rules
+[33mf87ddc0[m add README describing eslintrc requirements
+[33m20c4d37[m add eslint rules for JSX style from issue #345
+[33m874fb87[m Merge pull request #343 from airbnb/rule-links
+[33m43a5f84[m [links] id => name
+[33m535c4f7[m add links to individual rules
+[33mc77a7f1[m Merge pull request #341 from billabong/spacing_format_fix
+[33m8bc1c17[m Fixed spacing on code block under Comments.
+[33m2c9702c[m Merge pull request #340 from billabong/add_orginization
+[33m27cc9a0[m Addition of Billabong Orginization
+[33mb201d2b[m Merge pull request #337 from airbnb/clarify-conditionals
+[33m871a798[m [conditionals] update wording, es5 version
+[33m4295803[m [conditionals] use if statement
+[33m36ddb36[m [conditionals] clarify conditionals. fixes #336
+[33mdf5029b[m [pkg] bump version
+[33me96a957[m Merge pull request #333 from tomekwi/patch-6
+[33ma931969[m Fix typo
+[33m9563e1a[m Merge pull request #331 from airbnb/react_style
+[33m2595cb6[m removed alpha sort, changed jsx exten to js, added method prefix rule, added camelCase for props
+[33m3764337[m React/JSX Style Guide
+[33m716e8c5[m Merge pull request #330 from airbnb/fix-example
+[33m0ffbdd3[m [comments] fix example
+[33m261f3bb[m Merge pull request #329 from airbnb/es6-trailing-commas
+[33m2521d46[m [readme] update additional trailing commas, examples
+[33m07bba23[m [readme] update additional trailing commas, examples
+[33mfc248e6[m Merge pull request #328 from airbnb/es6-trailing-commas
+[33m7ade954[m [commas] fix bad git diff example
+[33ma2034b0[m [commas] additional trailing commas good in es6. fixes #323
+[33m120a122[m Merge pull request #327 from airbnb/fix-wording
+[33ma41c1fa[m [intro] our es5 guide is still up to date
+[33m1df3160[m Merge pull request #276 from airbnb/es6
+[33mcc46013[m Learn you some ES6
+[33m455529c[m Updates es5 guide with latest
+[33mcb47b47[m Amend grammar for default parameters
+[33md002872[m add semicolons
+[33me500693[m Use modules in naming conventions example
+[33m0cca5e2[m Fix hoisting examples
+[33mee17604[m Rename two let keywords to const
+[33m875d2ad[m Add `esnext` to the jsHint configuration
+[33mf7321b3[m [modules] fix invalid syntax in bad example. fixes #287
+[33m6d34c51[m [toc] remove extra modules link
+[33m38ae6b6[m add `bad` comment to bad section of destructuring
+[33me826067[m advice against side effect in default parameter
+[33mbc5b0ee[m Change wording in Iterators and Generators
+[33m22e3c89[m Removing a few trailing commas
+[33ma6a573e[m Use more template literals, s/suffer/blessed with
+[33mb8fd043[m Iterators and Generators: sum should be 15, not 10
+[33m58cdc73[m Initial ES6 style guide
+[33mb50a43d[m Merge pull request #324 from nkt/patch-1
+[33m8d0f04c[m Merge pull request #322 from kzsh/clarifying-enforced-rule
+[33ma6e906a[m Clarifying what rule is being enforced.
+[33m1282ee6[m Add comment on why we're breaking a rule
+[33m15c947b[m Allow dot-notation keywords in eslint
+[33m0c66971[m Merge pull request #321 from JSSolutions/master
+[33ma1b53a1[m Added new organization.
+[33m92d9cbd[m Merge pull request #318 from jensechu/master
+[33m17dde0d[m Remove excess whitespace in Whitespace section
+[33m6de02b8[m Merge pull request #316 from airbnb/eslintrc
+[33mdc100c8[m Merge pull request #317 from airbnb/fix-var-example
+[33m7fe4883[m [variables] fix variable hoisting example. fixes #265
+[33m91d56b6[m [eslint] fix whitespace, silence underscore dangle
+[33mb694fed[m [linters] update .eslintrc
+[33m10ef68a[m Merge pull request #315 from sinkswim/master
+[33m5fe373c[m Added italian translation
+[33mc496b7e[m Merge pull request #314 from Flexberry/master
+[33m64013fb[m Add Flexberry to the organizations list
+[33m56f2aad[m Merge pull request #312 from lvarayut/patch-1
+[33m67dda21[m Add Thai language version
+[33mb893ce0[m Merge pull request #272 from RobLoach/eslint
+[33md5cddf8[m Merge pull request #292 from sunshinewyin/master
+[33mddbc7aa[m Merge pull request #295 from airbnb/fix-whitespace-ex
+[33m540365c[m [whitespace] class => classed. fixes #294
+[33m0501155[m Merge pull request #283 from marcioos/master
+[33m7ed9511[m Merge pull request #288 from RKushnir/master
+[33me2688ac[m Merge pull request #293 from honzi/honzi-patch-1
+[33m87ea890[m fix(one-var): Add one-var setting from @nkbt
+[33m999a9f3[m Alphabetized Translation links
+[33m6cda67e[m Fix minor punctuation errors
+[33mebe8cb2[m Fix a typo in selector
+[33m4b012cd[m Rephrasing Array#push style guide
+[33m483bc27[m Merge pull request #277 from adult-swim/airbnb
+[33m2bccaf6[m Added Adult Swim to In the Wild section
+[33m3058e38[m fix(eslint): Remove amd and jquery from env
+[33m615dc76[m [whitespace] remove dots, they look bad
+[33m369fdb8[m [whitespace] add dots for whitespace examples
+[33m2d15dec[m Merge pull request #274 from tomekwi/paren-whitespace
+[33m2e51880[m Specify whitespace rules for parentheses
+[33mdbbdec3[m feat(eslint): Add ESLint linting support
+[33m520b6d6[m [resources] add link to standard style by @feross
+[33m6c461ff[m Merge pull request #266 from sleeptillseven/master
+[33mb91deed[m Add You Don't Know JS to books
+[33madea1d1[m Merge pull request #262 from marcel-me/master
+[33m716a965[m Add Eloquent JavaScript to books
+[33maad2bf8[m Merge pull request #260 from joeframbach/patch-1
+[33m3dc4b5e[m String concat code blocks were not equivalent.
+[33md8564cf[m Merge pull request #258 from CodeDistillery/master
+[33m78309e7[m Add Nordic Venture Family to organizations list
+[33m5fd7c6f[m added naming convention of UPPERCASE names
+[33m18abccb[m Merge pull request #238 from jigsawye/patch-1
+[33m114f035[m Merge pull request #250 from vprasanth/master
+[33m8368886[m Merge pull request #253 from T4R-Technology/master
+[33m7c79b4e[m Added T4R Technology to organizations list
+[33mfa64b97[m Merge pull request #252 from fvanderwielen/patch-1
+[33m3eef511[m Fixes #251 - Rename Conditional Expressions
+[33mc6191f8[m Formatting updated for Podcasts
+[33m02d3f52[m Created Podcasts section
+[33m5a01165[m Added a book to the book list
+[33mb3e83dc[m Merge pull request #249 from justjake/jake/react-style
+[33me9b5732[m naming files containing one class
+[33m20cce8f[m Merge pull request #248 from justjake/else
+[33maf096c8[m add `else` to docs
+[33m656a8f6[m [in the wild] add @Jam3
+[33mb49d58f[m [resources] add frontend guidlines by @bendc
+[33m60c8972[m Merge pull request #241 from nimbl3/master
+[33m95eae88[m Merge pull request #242 from omarduarte/patch-1
+[33mb0a364d[m Missed a semicolon
+[33m5406076[m Adding Nimbl3 to the organizations list
+[33mb60970a[m Merge pull request #239 from TheSavior/block-spacing
+[33m80e698e[m Using better examples
+[33m533e9ea[m Adding comments about spacing between blocks
+[33mcedfc81[m Update README.md
+[33m4503923[m Merge pull request #234 from apartmint/master
+[33m384d65e[m add Apartmint to list of organizations
+[33m7a9ca5a[m Merge pull request #230 from justjake/no-trailing-dot
+[33m33363af[m put the dot with fn name when chaining
+[33m1e22029[m Merge pull request #232 from ClimbsRocks/patch-2
+[33m233c1db[m Update README.md
+[33m9812fdc[m Merge pull request #229 from ClimbsRocks/patch-1
+[33ma280e95[m Punctuation tweak
+[33mc729083[m Merge pull request #227 from leomicheloni/master
+[33mb4c87b1[m Added Kinetica solutions to organizations list
+[33md14af4e[m Merge pull request #224 from gpedro/patch-1
+[33m7ab3b29[m Brazilian Portuguese Flag
+[33mf0781a8[m Merge pull request #220 from justjake/master
+[33m3c68fc4[m Reformat var change
+[33mb61d52c[m use JSDoc/Closure Compiler style type annotations
+[33m8d51bd5[m Switch from single var to one-var-per-variable
+[33mbae9bc6[m Merge pull request #219 from studentsphere/master
+[33m7f393a4[m Update README.md
+[33ma224d0a[m [chat] add gitter badge
+[33mb2357ce[m [translations] use bigger, shinier flags
+[33m4b24cc1[m [translations] use gosquared flags for consistency
+[33m2a18bc4[m Merge pull request #214 from mjurczyk/add-polish-to-english
+[33m90f3dc3[m Also the flag of the Portugal was missing
+[33m2522afa[m Also fixed Bulgarian flag icon
+[33mda9103f[m Fixed flag icon
+[33m058e9ad[m Added a link to the translated tutorial
+[33md14b219[m [chat] add gitter badge
+[33m0baa105[m [chat] add link to gitter, come chat with us about js
+[33m0117266[m Merge pull request #209 from Weggo/master
+[33md4f2668[m Included Weggo as one of the style guide users
+[33mef4420b[m [in the wild] add InfoJobs. fixes #203
+[33m21a44a7[m [in the wild] add Target
+[33m54254cb[m Merge pull request #206 from sronnlund/master
+[33m6cbf79a[m Added missing semicolon.
+[33m18a1ee5[m Merge pull request #202 from fpmweb/patch-1
+[33ma02795e[m Catalan: added new translation
+[33mdac7947[m Merge pull request #201 from ateich/patch-1
+[33maaf2f2e[m Added author to Conditional Callbacks
+[33m9c58254[m Merge pull request #200 from jjmerino/patch-1
+[33m6161375[m Added author in: Other Styles
+[33m311e296[m Merge pull request #199 from ogwiz2/master
+[33mcdb49a3[m Added author for JSBooks
+[33me0917c8[m [resources] add clarity to new tools section
+[33me7c2997[m [resources] add tools section, include JSHint & JSCS
+[33m38fd77e[m [in the wild] add Evernote. fixes #193
+[33mb81a740[m [in the wild] add VoxFeed. fixes #192
+[33m0b0a417[m Merge pull request #195 from Avalara/master
+[33me46091b[m Adding Avalara to list of orgs
+[33mb756073[m [resources] add link to 'multiple var statements' in other styles
+[33mc81eac1[m Merge pull request #186 from airbnb/package-publish
+[33m9f535bd[m [npm] remove main, index.js
+[33m4648120[m [npm] add package.json
+[33mdc39920[m Merge pull request #182 from mstorus/master
+[33m6a71352[m Merge pull request #184 from intentmedia/intentmedia
+[33mcccf364[m Adding Intent Media to the list of companies
+[33m697aa00[m jshintrc cleanup
+[33m06be2ba[m Merge pull request #179 from muber/updates
+[33m0c36235[m Added Muber to the list of organizations using this styleguide
+[33m3187ab6[m Merge pull request #164 from orionhealth/comment-lead-semi-colon-iife
+[33mda04925[m Merge pull request #175 from jtfmumm/patch-1
+[33m214bf78[m Add TheLadders to the list of organizations that forked this style guide
+[33md6e696b[m Merge pull request #174 from dailymotion/master
+[33m2895ae0[m Add DailyMotion to the list of organizations that are using this style guide
+[33m0a58fc7[m [naming conventions] add note about NFEs, IE8 and below. fixes #82
+[33m2d97594[m Merge pull request #126 from Jabher/patch-1
+[33m8cfb740[m Merge pull request #172 from robertd/master
+[33m12df1f5[m Remove ; from function endings
+[33m5a6dc7c[m Merge pull request #171 from Joe8Bit/patch-1
+[33m1c3e0c8[m Add syntax highlighting to noConflict reference
+[33mf234e02[m Merge pull request #170 from chromakode/clarify-file-ending-newline
+[33m8189d6c[m Clarify single newlines at the end of files.
+[33mb138d89[m [in the wild] Reddit => reddit
+[33mab9338b[m Merge pull request #167 from ajacksified/add-reddit-to-list
+[33ma3a0af9[m Add Reddit to list of companies.
+[33m0f0a01d[m Merge pull request #166 from orionhealth/orion-health
+[33m6288faf[m Add Orion Health to the list of companies in the README.
+[33m1a6d308[m Add justification and some further reading on using a leading semi colon before an IIFE to the Semicolons section.
+[33m3c504e9[m Remove unnecessary extra newline that confused some markdown previewers (in my case Atom.io).
+[33m731ae10[m Merge pull request #156 from ripple/master
+[33m9cc84ec[m Merge pull request #152 from goldcaddy77/multi-line-use-80
+[33m2a1c19a[m Merge pull request #151 from goldcaddy77/fix-programatically-typo
+[33m2737916[m Use 80 chars for consistency with comment above
+[33m12baae7[m Fix typo with word programatically
+[33mc287ad8[m Merge pull request #150 from seekingalpha/master
+[33mf597241[m Add SeekingAlpha to companies in the README
+[33medfab47[m Update README.md to add SeekingAlpha
+[33mfee1853[m Add Ripple to list of projects using this style guide.
+[33me222797[m Merge pull request #149 from fetch/simple-anchors
+[33mfb86fc0[m TOC links updated
+[33mc3a9c7f[m Rely on github's default heading anchors
+[33m8bf3943[m Merge pull request #148 from DigitPaint/add_digitpaint_to_organizations_list
+[33mc4d7cc0[m Add Digitpaint to list of organisations using this style guide
+[33m8c01bc4[m [resources] add link to es6 features
+[33m5933651[m Merge pull request #146 from moneyadviceservice/add_money_advice_service_to_readme
+[33m6c25edd[m Add Money Advice Service to list of organisations using this style guide
+[33m92a6ce6[m Merge pull request #142 from gdi2290/patch-1
+[33mf2e49d1[m update copyright year
+[33med3e46e[m [resources] add you might not need jquery authors
+[33m7d470d8[m [resources] add you might not need jquery
+[33m31393c2[m Merge pull request #139 from Peerby/master
+[33mbd3914c[m added Peerby to list of organizations that use this guide
+[33m6e40437[m [readme] remove GA in favor of Github analytics
+[33md27bcfa[m [readme] add GA
+[33ma3e1534[m Merge pull request #134 from airbnb/add-jshintrc
+[33mb65dd90[m Add .jshintrc
+[33m5d99903[m Merge pull request #95 from lxe/master
+[33m425d5c7[m Merge pull request #132 from vahan-hartooni/patch-2
+[33md5db0a2[m Enforce 'use strict'
+[33m440b34a[m [resources] add link to Third Party JavaScript. fixes #128
+[33m7a9f9c5[m Merge pull request #131 from ulyssecarion/missing_hide
+[33mfbc79a3[m Add a missing `.hide()` for consistency's sake.
+[33mc2b16dc[m Merge pull request #127 from airbnb/operator_whitespace
+[33m9469e94[m Add guideline for spaces around operators
+[33m3882949[m 32-bit integers and bitwise operators explained with example of possible issues
+[33m745cf85[m [translation] update russian fixes #120
+[33me82c8db[m Merge pull request #125 from vahan-hartooni/patch-1
+[33m898b46d[m Update SublimeLinter.sublime-settings
+[33m3a6aff1[m [in the wild] add REI
+[33me8764fb[m Merge pull request #122 from bmorrall/patch-1
+[33md44c4e0[m Concatenation examples are now equivalent
+[33mf07de4b[m [translation] add Bulgarian translation. fixes #121
+[33m1ffec40[m Merge pull request #119 from sbezludny/patch-1
+[33m8702dd4[m Added Russian translation
+[33m30957f2[m Merge pull request #117 from nmussy/french_translation
+[33m30d8ea0[m copy pasta
+[33mc29818c[m Added French translation to the list
+[33m6dff6bc[m Merge pull request #116 from AeonAxan/patch-1
+[33m6445a6f[m Remove invalid name - Naming Conventions
+[33maaaf392[m [type casting & coercion] fix formatting
+[33m8bab767[m [type casting & coercion] add note about bitshift and large integers. fixes #109
+[33mfa32d9a[m [in the wild] add Gawker Media
+[33mac5827d[m Merge pull request #108 from tipjs/master
+[33m775ba4e[m Add Korean version
+[33m49d480b[m Merge pull request #106 from AanZee/master
+[33me8caad2[m Update README.md
+[33mc7ab9b8[m Merge pull request #103 from pborreli/patch-1
+[33mde4979b[m Fixed typos
+[33m9862309[m [in the wild] add Mighty Spring
+[33med6df64[m [resources] add link to popular js conventions on github
+[33mf25396e[m Merge pull request #99 from ultimatedelman/master
+[33mcce1a2d[m Update README.md
+[33m65a86bc[m Format object array to conform to whitespace guidelines
+[33m95b6b5f[m Merge pull request #93 from paolocarrasco/patch-1
+[33m16acfda[m Adding a Spanish version to the list of translations
+[33m9d17310[m [resources] add additional helpful resources. fixes #92
+[33mfcdf61c[m Merge pull request #91 from jdhartley/patch-1
+[33me84b63c[m Fix jQuery selector with context param order
+[33m6394ca8[m [jquery] the faster lookup isn't actually faster. Fixes #90
+[33m5a769c1[m [resources] add superhero.js
+[33mc4a44b5[m [resources] add human javascript
+[33m6cc6017[m Merge pull request #89 from AnSavvides/master
+[33m7b40bfb[m Add Secrets of the JavaScript Ninja to list of books
+[33ma369677[m Merge pull request #88 from DeanXu/patch-1
+[33m5c30b95[m better?
+[33mc4ebea9[m Merge pull request #86 from nicoder/patch-1
+[33m96b69c4[m Merge pull request #87 from nicoder/patch-2
+[33m701311e[m "declare each variable on a newline"
+[33ma37d284[m fix typo (i think)
+[33mc8442b4[m [modules] add link to @reissbaker's explanation of bangs, cat, ASI, and newlines
+[33ma0cefb8[m [in the wild] add grooveshark
+[33m39b4c02[m [type casting] add opening code block
+[33m020fe03[m [objects] update discussion on reserved word usage. fixes #61
+[33mae425f0[m [type casting] move explanation about bitshift closer to example code. fixes #80
+[33m17c8be1[m Merge pull request #79 from compasslearning/master
+[33mc320da1[m Merge pull request #1 from airbnb/master
+[33mafd3ed0[m adding Compass as an implementor
+[33ma2ee12e[m Merge pull request #78 from adamlu/patch-1
+[33mede18e7[m Update README.md
+[33m6a749be[m [in the wild] add National Park Service
+[33m12d3f05[m [in the wild] add ZocDoc
+[33mbf87eec[m [commas] add section on additional trailing commas. fixes #75
+[33me3e3cc1[m [resources] add section for further reading, closures. fixes #64
+[33m3cea9f5[m Merge pull request #73 from airbnb/event-payloads
+[33m412a7f9[m Use explanation from #71
+[33m7d7c1c7[m [events] add period
+[33m18485bd[m [events] add events section, pass a hash not a raw value
+[33m8335ffa[m [whitespace] use single quotes for strings. fixes #68
+[33mcb7b261[m [in the wild] add General Electric
+[33m948ccd9[m Add note about converting array-like objects to Array
+[33m32a4a8f[m Merge pull request #66 from SiPlus/master
+[33mc966723[m Array.prototype.slice.call -> .slice
+[33m67d2f39[m Merge pull request #65 from armoucar/master
+[33m8aeebc9[m Portuguese Translation (pt-BR)
+[33m40f18c5[m [in the wild] add userify
+[33m20c48f1[m Merge pull request #63 from kairosagency/jqueryfix
+[33mf435429[m Fixed small error in jQuery selector example
+[33mcad9032[m [comments] add FIXME and TODO annotations. Fixes #62
+[33ma15b27e[m [in the wild] add modcloth and zillow
+[33md5e0a5e[m [in the wild] remove GoCardless
+[33m91a2b3d[m Merge pull request #56 from qorbani/master
+[33mbbfcaa4[m Fix links in "In the Wild" and "The JavaScript Style Guide Guide" sections
+[33mc4a2fa1[m Merge pull request #53 from Znarkus/patch-1
+[33me0572c7[m fixed link in Other Styles->Conditional Callbacks
+[33mfba96a8[m [other styles] add link to conditional callback discussion. fixes #52
+[33me012839[m [variables] swap length and i declaration order.
+[33me1f0515[m Merge pull request #51 from oslek/catch
+[33mcea75d1[m variables example - moved length declaration to newline
+[33mce104ea[m [translations] add emoji flags
+[33mf86a977[m Merge pull request #50 from timofurrer/a11223ab93fa8f96724634abe4cfdcf246d05d83
+[33mb913585[m Merge pull request #48 from timofurrer/99bf84776d0f6a31e1363a54df3e790ad6d59d60
+[33ma11223a[m moved link to TOC in Whitespace chapter to the end and corrected indentation
+[33m99bf847[m [Translations] added german
+[33mf91e83e[m [translations] update wording
+[33mca5d34d[m Merge pull request #47 from mitsuruog/master
+[33me484fa5[m translate into Japanese
+[33ma92b2f2[m Merge pull request #45 from adamalex/master
+[33m479fcbe[m Merge pull request #46 from mitsuruog/master
+[33m11bfc4a[m Fixed typo
+[33mfcbe704[m [in the wild] add ExactTarget
+[33m40f261b[m Fixed typo
+[33mc3111c7[m [performance] add article on layout and web performance
+[33md0bea54[m [in the wild] add GoCardless and Razorfish
+[33meceab31[m Merge pull request #43 from mitsuruog/master
+[33m2a43ade[m Fixed typo
+[33m5a01394[m [functions] fix link to ecma-262 note
+[33m53946c5[m [functions] add source about func declarations & blocks in different browsers
+[33me52a615[m [arrays] believe in push.
+[33mfe0ab66[m [in the wild] add national geographic and gooddata
+[33md149b74[m [hoisting] fix typo
+[33mc30a067[m [arrays] use Array#slice to copy an array. Fixes #41
+[33m4815ab0[m [strings] add jsPerf and discussion about long strings with concatenation. Fixes #40
+[33me645ca2[m Merge pull request #38 from asmblah/patch-1
+[33m529f5b7[m Updated noConflict method for modules
+[33m2091d96[m Merge pull request #36 from thisconnect/master
+[33mc4ae7e7[m revert double quotes in markup a2fd2605a78cfeaa
+[33mee91591[m module example: reverts adding return instead use this.options as suggested by spikebrehm https://github.com/airbnb/javascript/pull/36#discussion_r2422936
+[33m070230f[m dailyjs does only http (from https://github.com/amaxwell01/javascript_style_guide/commit/ee9204c2071f63eb51f05a3cd72c8e26f3593ba2)
+[33m349c671[m Compatability -> Compatibility (from https://github.com/voy/gdc-js-style/commit/aa4ccf3f1023981d71efd7ea5ba7b567b806a2a1)
+[33mc68962b[m kent is just a string, not a hero
+[33mc2b0ff2[m [types] switch to lowercase to not confuse with constructors
+[33mb74ba8b[m [types] switch to lowercase to not confuse with constructors
+[33m3ecda9e[m missing return
+[33ma2fd260[m use double quotes in markup
+[33m49984d7[m adds space to string example
+[33mfa98b40[m manual semicolon insertion
+[33m3c9222a[m [performance] add jsperf for innerHTML vs textContent for script text
+[33mb6d5e3b[m [resources] better title
+[33m38a875d[m [resources] add other styles section, so folks can make their own decisions
+[33m015e431[m [arrays] update jsperf links. fixes #27
+[33mdfb699a[m Merge pull request #33 from rma4ok/master
+[33m12f9c99[m [in the wild] add howaboutwe example
+[33mac1d0c0[m [in the wild] add MinnPost
+[33me6243c9[m [naming conventions] saving reference to this, use _this. fixes #32
+[33mb7250a8[m [arrays] direct/push/copy
+[33md521014[m [in the wild] add shutterfly
+[33ma3086ab[m [in the wild] Add list of organizations using the style guide or a fork of it
+[33m4ee33f2[m Less dogmatic about instance methods returning this.
+[33mbde1411[m Merge pull request #30 from Laboratory/master
+[33mc8cea2e[m Optimization Array#join
+[33m6790721[m Merge pull request #29 from airbnb/enforce-single-quotes
+[33m6eed6bd[m Bump minor version for addition of single quotes setting
+[33me6ab9ce[m Add single quote enforcement setting
+[33mcfa916e[m Remove unnecessary articles from setting descriptions
+[33mc3f8a79[m Merge pull request #26 from jgable/patch-1
+[33m9fd528f[m Fix whitespace one space example
+[33ma4115f0[m Merge pull request #23 from askalot/master
+[33m86cd4a2[m Fixed typo -> pased to passed
+[33m4d9dc6c[m [jQuery] label the faster and slower lookup
+[33m9fb45df[m [jQuery] better performance for DOM queries. fixes #22
+[33m2dadef9[m [Type Casting & Coercion] fix typo
+[33mb4cf723[m [Type Casting & Coercion] use parseInt for readability. fixes #18
+[33mbd6a407[m Merge pull request #20 from zealotous/patch-1
+[33m4846215[m Update README.md
+[33m84fdb98[m [whitespace] match good and bad examples
+[33mf473ef0[m [whitespace] use indentation for long method chains. fixes #19
+[33mfadaff7[m [Conditionals] improve readability
+[33m48d4f69[m Merge pull request #17 from ryun/patch-1
+[33m7a3062d[m stray character 'i'
+[33md0dac67[m Merge pull request #16 from pyrotechnick/patch-1
+[33mf704e67[m added "good" private property example
+[33mb790fae[m [variables] more generic. fixes #14
+[33m92fa3c7[m [naming conventions] fixes #15
+[33m4400753[m Merge pull request #11 from airbnb/sublime-linter-updates
+[33me34611d[m [accessors] fixes #13
+[33m1fcf86f[m Merge pull request #12 from airbnb/node-globals
+[33medcc2c3[m Define globals exposed by Node.js
+[33mc4ee2eb[m Increment minor version to include 'camelcase' settings and comment updates
+[33m859164d[m Remove references to third-person 'you', it sounds weird
+[33m9c4f415[m Use the imperative mood in comments, 'Prohibit' instead of 'Prohibits'
+[33m9ae773e[m Enforce camelCase or UPPER_CASE for all variable names
+[33mdb5cd7c[m Increment fix version for typo update
+[33m280164a[m Remove extra 'for' in SublimeLinter settings comment
+[33m80b692d[m Merge pull request #10 from airbnb/sublime-linter-settings
+[33m46d19c2[m Move SublimeLinter settings to a subdirectory of the same name to keep things clean
+[33m14088de[m Add instructions for how to use SublimeLinter settings
+[33mc202b0c[m Prefer /** */ for multi-line comments
+[33m8eb9087[m Add SublimeLinter settings that match the current JS rules in README.md
+[33m0e55858[m Making public
+[33m3c9f112[m [contributors] link to contributor graph, remove authors section
+[33mb714fe8[m Just don't use reserved words as keys. fixes #6
+[33m8f0ef5d[m return when it makes sense. fixes #9
+[33m6220506[m Don't use reserved words as property names. If you do, quote them. fixes #6
+[33m437e33a[m Merge branch 'master' of github.com:airbnb/javascript
+[33mab5910a[m braces for mulit-line blocks only. optional for single-line blocks. fixes #3
+[33md5a05ef[m Merge pull request #7 from airbnb/bang_modules
+[33m7cc3281[m capitalizing types that are constructors
+[33m8cef7f1[m fix the baker link
+[33mb2c7d3d[m don't overwrite the prototype
+[33mc771d4e[m Switched modules to bang-style.
+[33m4c04d5c[m Handlebars broke my brain.
+[33mfef21df[m fix conflict
+[33m6a0c83a[m No one's perfect.
+[33m5d58272[m Merge pull request #2 from airbnb/interpolation-fix
+[33mca0f5ff[m Removed reference to interpolation.
+[33mf08e400[m remove invalid interpolation examples
+[33mcab5103[m first pass
+[33m0fcdacc[m Initial commit
